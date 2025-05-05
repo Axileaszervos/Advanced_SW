@@ -1,0 +1,2049 @@
+Issue Number,Title,State,Labels,Created At,User,Body,URL
+3326,C# is a language I don't seem to find,closed,[],2025-01-06T15:28:03Z,smileyousobeautiful,"Your repository is very comprehensive, but I don't seem to have found the C# language, so please add it",https://github.com/sindresorhus/awesome/issues/3326
+3302,What Are the Criteria for “No Blockchain-Related Lists” in Pull Request Guidelines?,closed,[],2024-12-10T14:51:29Z,yijun-lee,"Looking at the pull request requirements, there’s a condition stating **“No blockchain-related lists.”** 
+What exactly is the criterion for this? 
+There are already some “blockchain-related” items on the existing awesome list, and it seems like the current PR also includes such items.",https://github.com/sindresorhus/awesome/issues/3302
+3266,Handbrake Web is listed twice,closed,[],2024-11-09T20:29:29Z,RonnyAL,"Lines 193-194 of README.md. Tried to submit a pull request, but wasn't allowed to.
+
+Thanks for providing an awesome resource.",https://github.com/sindresorhus/awesome/issues/3266
+3265,Alphabetically order the Content section,closed,[],2024-11-08T19:27:58Z,l4uZP,I believe organizing the content list alphabetically would be helpful to make it easier for new users to locate information.,https://github.com/sindresorhus/awesome/issues/3265
+3241,Awesome Windows link is dead,closed,[],2024-10-11T12:56:26Z,abhy-kumar,No detailed description needed - the Windows link in platform section leads to a 404 ,https://github.com/sindresorhus/awesome/issues/3241
+3216,create-list.md not clear about license and contributing in footernote,closed,[],2024-09-23T08:47:55Z,mikbry,"I read carefully the doc to check [Awesome-WebGPU](https://github.com/mikbry/awesome-webgpu), I started it several years ago. So we need to clean it up. But one part is not clear regarding the footernote:
+`Do not add the license name, text, or a Licence section to the readme.` Ok but if I want to add:
+```
+To the extent possible under law, [Mik Bry](https://github.com/mikbry) has waived all copyright and related or neighboring rights to this work.
+```
+You give an [Example](https://github.com/woop/awesome-quantified-self) that is made like that, but it doesn't pass awesome-lint...
+
+Same for contributing, should I put it in the footernote ?
+
+Thanks for your great work !",https://github.com/sindresorhus/awesome/issues/3216
+3211,Who is behind project-awesome.org?,closed,[],2024-09-21T07:49:59Z,ooker777,It seems like you don't have any affiliate with it. Any idea where does it come from?,https://github.com/sindresorhus/awesome/issues/3211
+3154,Add Machine Learning section,closed,[],2024-08-16T14:04:15Z,ErezBinyamin,"Machine Learning and LLM's in particular are increasingly becoming technical areas of interest across many domains. Creating a section in this meta-awesome repository to point folks in the direction of resources that can help them get started with ML/LLMs would be worthwhile.
+
+Some awesome pages to add:
+- Prompts:
+  - https://github.com/f/awesome-chatgpt-prompts
+  - https://github.com/ai-boost/awesome-prompts
+- LLM:
+  - https://github.com/Hannibal046/Awesome-LLM
+  - https://github.com/DefTruth/Awesome-LLM-Inference
+
+etc... 
+
+If desired I'm happy to submit a PR with a first pass at some worthwhile awesome-repos",https://github.com/sindresorhus/awesome/issues/3154
+3151,Add Japanese list,closed,[],2024-08-14T18:59:47Z,nktrjsk,"Hi, I've found this Awesome Japanese list, but didn't find it here, so I think you should take a look if it can be placed here: https://github.com/yudataguy/Awesome-Japanese",https://github.com/sindresorhus/awesome/issues/3151
+3116,Add New List: Awesome Machine Learning,closed,[],2024-07-21T09:50:19Z,MasterOfBrokenLogic,"I would like to suggest adding a new list for Machine Learning resources. This list includes curated resources such as tutorials, frameworks, datasets, and more. Here is the link to the list: [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+
+Thank you for considering this addition! ❤️",https://github.com/sindresorhus/awesome/issues/3116
+3109,Is it ok to add `awesome awesome` list?,closed,[],2024-07-11T16:07:23Z,zhimin-z,Such as https://github.com/zhimin-z/awesome-awesome-machine-learning,https://github.com/sindresorhus/awesome/issues/3109
+3062,Suggestion: I have some useful windows app recommendations.,closed,[],2024-05-27T12:58:04Z,tonghejiao,https://github.com/tonghejiao/awesome-windows,https://github.com/sindresorhus/awesome/issues/3062
+3050,AI Tools,closed,[],2024-05-15T06:25:14Z,HarrySolsem,Hi Sindre. I suggest that a list of AI-tools be added.,https://github.com/sindresorhus/awesome/issues/3050
+3007,Add Electronic-Interchange-Github-Resources list,closed,[],2024-03-27T18:36:28Z,michaelachrisco,"I have a list of x12 EDI here that has been supported for a couple of years. It's been helping people in a fairly niche topic in a very small but important part of data interchange. 
+
+https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources
+
+It has been heavily influenced by lists like this one. I (or someone) will need to do some work in order for this to be added to this library via the https://github.com/sindresorhus/awesome/blob/main/awesome.md 
+
+Getting more 👀 on the list may help keep it up to date as well. ",https://github.com/sindresorhus/awesome/issues/3007
+2994,Any idea to feed all this repo content into LLM for quick search ?,closed,[],2024-03-15T16:39:51Z,q2333gh,That will be so great and convenient!,https://github.com/sindresorhus/awesome/issues/2994
+2967,Guidelines on subpages,closed,[],2024-02-12T21:36:24Z,lskatz,Are there guidelines if we want to make a sub page? I have a category that might get extremely large and so I want it to be on its own page.,https://github.com/sindresorhus/awesome/issues/2967
+2881,Atom is no more - add Pulsar as an alternative?,closed,[],2023-11-28T17:01:11Z,mauricioszabo,"Hi - I saw your list still includes the Atom editor - as it was sunset by Microsoft, maybe include Pulsar, our fork, on the list? https://pulsar-edit.dev/",https://github.com/sindresorhus/awesome/issues/2881
+2877,Add Large language models frontends ?,closed,[],2023-11-25T20:19:19Z,iChristGit,"There are plenty of amazing LLM ""chatgpt"" like webuis and interfaces., they are all open source and I think they deserve a small section.
+
+Some examples:
+
+https://github.com/huggingface/chat-ui
+https://github.com/oobabooga/text-generation-webui
+https://github.com/ParisNeo/lollms-webui/
+https://github.com/h2oai/h2ogpt
+https://github.com/SillyTavern/SillyTavern
+https://github.com/NimbleBoxAI/ChainFury
+https://github.com/nomic-ai/gpt4all
+https://github.com/imartinez/privateGPT
+
+What do you think?
+",https://github.com/sindresorhus/awesome/issues/2877
+2724,awesome-mastodon orphaned ,closed,[],2023-07-24T20:52:51Z,IamFlowZ,"Hello!
+
+I've tried reaching out a number of ways to the owner of the awesome-mastodon repo, and haven't gotten a response. It has almost 900 stars and people still trying to actively contribute. Was wondering if there's any way we could redirect the link to one of the forks? Or through some other means make it available seeing as how mastodon has gained a lot of popularity in recent history.",https://github.com/sindresorhus/awesome/issues/2724
+2712,Sort lists,closed,[],2023-07-05T16:42:02Z,bobby-palmer,It seems like the lists should be alphabetically sorted to allow for easy searching.,https://github.com/sindresorhus/awesome/issues/2712
+2681,[Feature]  Trigger warning Rating,closed,[],2023-06-17T05:28:02Z,CBID2,"## Introducing Myself 
+Hi @sindresorhus! I'm CBID2, and I found this project via the Topics Tab on GitHub, so I'm excited to be here! :) 
+##  Related Issue
+
+Connects to #732 
+
+## Concern
+Adding more non-tech lists is a great idea. However, a possible problem that could occur is a person goes to a list (For context, let's say there's a list of Awesome Animated shows) and ends up finding content that might negatively affect their mental health(e.g., the murder scene in Invincible). 
+
+## Solution
+Add GitHub Action that automatically closes a pull request if a contributor does not add a trigger warning in their PR. 
+
+
+",https://github.com/sindresorhus/awesome/issues/2681
+2674,Agriculture ,closed,[],2023-06-14T08:12:30Z,KAPPI1925,"Entomology, pathology, seed science, soil science, agronomy ",https://github.com/sindresorhus/awesome/issues/2674
+2673,Add about Geoinformatics,closed,[],2023-06-14T08:11:50Z,KAPPI1925,"Like Remote sensing, GIS, digital image processing ",https://github.com/sindresorhus/awesome/issues/2673
+2605,ATprotocol,closed,[],2023-04-27T16:11:44Z,mikestaub,Can someone add this? https://github.com/beeman/awesome-atproto,https://github.com/sindresorhus/awesome/issues/2605
+2596,Correction,closed,[],2023-04-20T09:47:07Z,Pratyushslimsady,"on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'readme.md'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Run lint check
+        run: |
+          chmod +x ./.github/workflows/repo_linter.sh
+          ./.github/workflows/repo_linter.sh",https://github.com/sindresorhus/awesome/issues/2596
+2588,Add composable AI,closed,[],2023-04-12T08:52:29Z,Adamdad,https://github.com/Adamdad/Awesome-ComposableAI,https://github.com/sindresorhus/awesome/issues/2588
+2542,add nostr,closed,[],2023-03-08T17:11:42Z,mivinci,check out https://github.com/aljazceru/awesome-nostr,https://github.com/sindresorhus/awesome/issues/2542
+2522,[Suggestion] AWS  Cheatsheet,closed,[],2023-02-12T09:16:58Z,seifrajhi,"Hello,
+As I am working on a daily basis with AWS I was triggered that this cloud provider is not yet having a cheat sheet. Is it in the program?
+Can I contribute? (for example with a sample of the cheatsheet?).
+
+Thank you very much, I love this project!",https://github.com/sindresorhus/awesome/issues/2522
+2491,Add app ideas,closed,[],2023-01-16T07:31:34Z,dev-aniketj,https://github.com/dev-aniketj/awesome-app-ideas,https://github.com/sindresorhus/awesome/issues/2491
+2490,Added Awesome Java Projects,closed,[],2023-01-15T11:42:14Z,dev-aniketj,"https://github.com/dev-aniketj/awesome-java-projects
+",https://github.com/sindresorhus/awesome/issues/2490
+2488,Please add programming books section,closed,[],2023-01-15T10:01:59Z,dev-aniketj,Please add this repo in the awesome list - https://github.com/dev-aniketj/Programming-Books,https://github.com/sindresorhus/awesome/issues/2488
+2486,Add Technical Communication category,closed,[],2023-01-14T16:27:37Z,silopolis,"This category would group lists about technical documentation, developer experience etc.
+
+For starters, it could host #1883 , #2424 and #2288
+
+The following would be candidate entries:
+
+* https://github.com/testthedocs/awesome-docs 
+* https://github.com/writing-resources/awesome-scientific-writing
+* https://github.com/yoloseem/awesome-sphinxdoc
+",https://github.com/sindresorhus/awesome/issues/2486
+2483,Awesome Cheminformatics Teaching Material,closed,[],2023-01-11T15:03:05Z,Sulstice,"Hello,
+
+I would like to submit this list of material I use to teach cheminformatics as an awesome list and whether this is appropriate? 
+
+https://github.com/Sulstice/Cheminformatics-Teaching-Material
+
+Thank you!
+-Sulstice",https://github.com/sindresorhus/awesome/issues/2483
+2429,Chinese version,closed,[],2022-11-13T14:18:25Z,loda13,need Chinese version please,https://github.com/sindresorhus/awesome/issues/2429
+2419,Add UntrustableRus/awesome-school-exploits,closed,[],2022-10-25T23:36:42Z,3kh0,Can you please add https://github.com/UntrustableRus/awesome-school-exploits it is very good,https://github.com/sindresorhus/awesome/issues/2419
+2379,Explain One Thing,closed,[],2022-09-15T18:11:10Z,fulldecent,"Please explain in the README why One Thing is featured so prominently.
+
+Is this something cool you like? (if so, please say so)
+
+Are they paying you money? (if so, please say so, and that would be weird because that app does not make money... is it a virus or something where they make money another way?)",https://github.com/sindresorhus/awesome/issues/2379
+2344,List slack apps for developers,closed,[],2022-08-03T06:46:24Z,cosydney,"I created a list of 50 slack apps for developers, happy to rewrite them in the same awesome format as you guys have if you think this would make sense? 
+
+https://github.com/axolo-co/slack-apps-for-developers
+
+Let me know and I can easily create a PR, 
+
+Cheers
+
+",https://github.com/sindresorhus/awesome/issues/2344
+2333,"Add ""Awesome How to do Open Source"" list",closed,[],2022-07-20T21:30:42Z,dirkmueller,"@cornellius is maintaining https://github.com/cornelius/awesome-open-source which is an awesome listing on how to *do* open source. it is missing in the current list and as far as I can see fits the contribution requirements. 
+
+",https://github.com/sindresorhus/awesome/issues/2333
+2319,Sort content within topics alphabetically,closed,[],2022-07-09T09:23:54Z,CandidDeer,"I think it would help users to find what they need more easily if we sorted the content of each topic area alphabetically.
+E.g.
+**Platforms**: 
+- .NET
+- Actions on Google
+- Adafruit IO
+etc.
+
+Instead of the current
+**Platforms**: 
+- Node.js
+- Frontend Development
+- iOS
+etc.
+
+If you agree, please assign this to me and I'll be happy to resolve the issue.",https://github.com/sindresorhus/awesome/issues/2319
+2295,Add Official Discord Server Link In Community.,closed,[],2022-06-23T15:47:29Z,VaarunSinha,"Recently Django has launched its official discord server, it should be included under the community list.
+ 
+Link: https://discord.com/invite/xcRH6mN4fa
+
+It is also in the official Django community page.
+
+<img width=""1376"" alt=""Screenshot 2022-06-23 at 9 16 13 PM"" src=""https://user-images.githubusercontent.com/85062344/175340691-7e283787-64f9-4b8b-9017-5bd8b0a4198e.png"">
+
+",https://github.com/sindresorhus/awesome/issues/2295
+2260,Error in editors page in Visual Studio Code voice,closed,[],2022-05-12T13:45:04Z,ghost,"In [awesome-editors page](https://github.com/sindresorhus/awesome#editors) there is an error: **Visual Studio Code** is marked as a **_Cross-platform open-source text editor_** while it is only **built** on open-source, [as anyone can read here](https://code.visualstudio.com/License/). It's source code is available [at this link](https://github.com/Microsoft/vscode).
+In fact Vistual Studio Code and the code which on is based are distributed under two different licenses.
+I suggest you to edit the description of Visual Studio Code from current one to _One of the most used text editor, hackable, flexible and based on open source code distributed by Microsoft_ or something similar, so it won't be misleading as it is right now.
+
+By the way thanks for this awesome project.",https://github.com/sindresorhus/awesome/issues/2260
+2256,Copyright issue,closed,[],2022-05-07T16:26:23Z,meysamhadeli,"Gathering some articles, and video links with author name related to programming are allowed in terms of copyright? 
+Or we need to get consent for all the links from their authors?",https://github.com/sindresorhus/awesome/issues/2256
+2250,"Badge style ""for-the-badge"" allowed?",closed,[],2022-04-27T11:33:13Z,elliotwutingfeng,"I want to place a ""mentioned in awesome"" badge on my awesome project's readme, in the style of ""for-the-badge"", but there is currently no such option available (the existing flat version is smaller than ""for-the-badge"" badges and would look out of place in this repo https://github.com/elliotwutingfeng/go-fasttld).
+
+Is it against the rules to use my own ""for-the-badge"" badge like this?
+
+![Mentioned In Awesome](https://img.shields.io/static/v1?logo=awesomelists&label=&labelColor=CCA6C4&logoColor=261120&message=Mentioned%20in%20awesome&color=494368&style=for-the-badge)
+
+(generated from shields.io)",https://github.com/sindresorhus/awesome/issues/2250
+2242,Incubate,open,[],2022-04-20T10:23:27Z,sindresorhus,"If you just starting working on a list, you can post it here to indicate that you are working on it (prevents duplicates) and to gather feedback.
+
+**One comment per list draft. Open an issue on the list to provide feedback. Not here.**",https://github.com/sindresorhus/awesome/issues/2242
+2239,Draft process and list placement,closed,[],2022-04-19T00:52:28Z,cnpryer,"Hi! Love this. A couple questions:
+
+1. Is there a draft process for baking lists? (Prevent duplicates or redundant effort)
+2. For lists that focus on something like a library that spans multiple languages and domains, where would a list like this fit?
+
+
+### Drafting
+
+>Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
+
+The goal is to add an `awesome` list to the `awesome` tree. If you want to centralize the community's effort, wouldn't it help to submit a draft PR here to provide that visibility (almost like self-assign)?
+
+### List placement (category)
+I'm baking [awesome-polars](https://github.com/cnpryer/awesome-polars) that is very early stage. Since I have a lot of time to get this all figured out (and do [a couple reviews](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md#requirements-for-your-pull-request)), I want to make sure I know where to aim for and how placement works.
+
+If it were solely a Python ecosystem topic awesome-python would probably make sense (correct me if I'm wrong), but it's a Rust library with supported bindings for a couple languages. Visibility within the Python ecosystem is just as important as it is in the Rust ecosystem. Since it's a DataFrame library it could also be considered part of several domains/non-language categories.
+
+Any advice here would be appreciated! 😄 ",https://github.com/sindresorhus/awesome/issues/2239
+2233,Contributor Issue,closed,[],2022-04-06T18:10:59Z,btxo24,"Even though I had made 31 commis in an organisation's repository, but i still doesn't count as one of the contributor...Why??
+
+Ps: I didn't set my email as private and I also use my email to pull and push on the repository.",https://github.com/sindresorhus/awesome/issues/2233
+2198,C++,closed,[],2022-03-03T09:15:14Z,Francoraise1,,https://github.com/sindresorhus/awesome/issues/2198
+2197,https://github.com/sindresorhus/awesome/blob/main/.github/funding.yml,closed,[],2022-03-03T01:46:44Z,shahhraam,,https://github.com/sindresorhus/awesome/issues/2197
+2196,I need atm pullout app,closed,[],2022-03-02T21:57:30Z,Mohbad123,,https://github.com/sindresorhus/awesome/issues/2196
+2195,"Love this
+
+Great list",closed,[],2022-02-27T13:50:25Z,LadyAce777,,https://github.com/sindresorhus/awesome/issues/2195
+2187,dead list awesome-rubymotion,closed,[],2022-02-17T03:40:11Z,z00rat,"the list **awesome-rubymotion** by @motion-open-source is dead.
+https://github.com/sindresorhus/awesome/blob/9170c40dc9ae84fb4a6bd9708085de6dabea3a32/readme.md?plain=1#L217
+```
+❯ curl -I https://github.com/motion-open-source/awesome-rubymotion
+HTTP/2 404 
+server: GitHub.com
+date: Thu, 17 Feb 2022 03:34:35 GMT
+content-type: text/html; charset=utf-8
+```
+
+looks like the user https://github.com/motion-open-source is dead in the first place.
+but found some mirror (ig):
+- https://project-awesome.org/motion-open-source/awesome-rubymotion
+- https://github.com/rvollebregt/awesome-rubymotion (0 star | last commit on ""1 Dec 2015"") 
+- https://awesomerepos.io/awesome/motion-open-source/awesome-rubymotion (dead server)
+
+
+can i make a pull request removing the list ??
+or something else should be done ??",https://github.com/sindresorhus/awesome/issues/2187
+2179,about web-padawan's awesome-lit (previously awesome-lit-html),closed,[],2022-02-14T04:58:06Z,z00rat,"hello everyone,
+@web-padawan changed the repo name from **awesome-lit-html** to **awesome-lit**.
+
+When this repo was first added it was named as **lit-html** with description **""HTML templating library for JavaScript.""**
+on https://github.com/sindresorhus/awesome/pull/1357 / https://github.com/sindresorhus/awesome/commit/137dee5ea2b1c1e0a439af2b5f392ea00fbbcc06
+
+but, now this link redirects to https://github.com/web-padawan/awesome-lit 
+```shell
+❯ curl -I https://github.com/web-padawan/awesome-lit-html
+HTTP/2 301 
+server: GitHub.com
+...
+location: https://github.com/web-padawan/awesome-lit
+...
+```
+and its about reads **""A curated list of awesome Lit resources.""**
+
+so, now what should be done ??
+can i just change the _like_ and the _description_ and make a pull request ??
+or should it be moved to some other category other than **Front-End Development** ??",https://github.com/sindresorhus/awesome/issues/2179
+2176,Add zig programming language?,closed,[],2022-02-11T14:42:20Z,subnut,"https://ziglang.org  
+https://github.com/ziglang/zig  
+
+
+Probably a modern alternative to C.  
+I haven't used it personally.",https://github.com/sindresorhus/awesome/issues/2176
+2173,Create a website for this project,closed,[],2022-02-07T17:38:46Z,iqbalpb,It will be helpful if you showcase this projects in a website,https://github.com/sindresorhus/awesome/issues/2173
+2149,Read the PR guidelines but need further clarity before submitting.,closed,[],2022-01-11T18:26:59Z,zriyansh,"Hey @sindresorhus, I read the guidelines that you made with much effort but looks like my awesome list is not compatible here,  I made it because I liked it without knowing about your 'awesome' thing. 
+
+here's the link - https://github.com/zriyansh/awesome-os/
+
+Everything can be followed according to the guidelines but I cannot format it in --
+`[Name](link) - description`
+
+as the list requires adding more details, so I used tables instead, have a look.
+
+I have not yet run awesome-lint on the list.
+
+If you think this list can find a place here, let me know so I can reformat it according to the need. 
+
+Thanks for your time. 
+",https://github.com/sindresorhus/awesome/issues/2149
+2140,What is this.,closed,[],2022-01-04T09:18:48Z,sastofficial,I dont understand the concept. All it says is lists,https://github.com/sindresorhus/awesome/issues/2140
+2130,New list: Awesome Conversational AI,closed,[],2021-12-24T21:10:51Z,jyguyomarch,"I have started a new awesome list: https://github.com/jyguyomarch/awesome-conversational-ai
+
+Found some very good lists on ML and NLP, but none on Conversational AI or related. Thought I would post here to get early feedback, or just in case someone knows of an existing list. If you want to contribute as usual feel free to PR.
+
+I'll close this issue in a bit less than 30 days once the list is mature enough for a PR. And if it is not the right way to use issues in this repo, feel free to close it of course.",https://github.com/sindresorhus/awesome/issues/2130
+2114,Can I use the logo in my blog? What are the rules?,closed,[],2021-12-06T01:46:48Z,alexandrediaries,"Hi!
+
+I'm new to Github.
+I saw this logo a few minutes ago:
+
+https://github.com/sindresorhus/awesome/blob/main/media/logo.svg
+
+Can I copy and paste it to my ""footer.php""
+
+The logo is so... awesome!",https://github.com/sindresorhus/awesome/issues/2114
+2108,Add the Django web framework to the Back-end Development tools,closed,[],2021-11-24T12:51:04Z,lnxpy,"Please add [Django](https://www.djangoproject.com/) to the [back-end-development section](https://github.com/sindresorhus/awesome#back-end-development)!
+Thanks.",https://github.com/sindresorhus/awesome/issues/2108
+2097,Pull request template: badge placement rule contradicts the linter,open,[],2021-11-15T15:17:17Z,ZoomRmc,"Per [pull_request_template.md](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md):
+>  Awesome badge... Should be placed **on the right side** of the readme heading.
+
+However, if the header includes the badge, the linter fails with the following error:
+`✖  1:1  Missing Awesome badge after the main heading  remark-lint:awesome-badge`
+
+Failing example markdown source for the header:
+```markdown
+# <a href=""https://nim-lang.org""><img src=""https://raw.githubusercontent.com/indiscipline/awesome-nim/logo/asset/awesome-nim-logo.svg"" alt=""Awesome-nim-logo"" width=""600""/></a><a href=""https://awesome.re""><img align=""right"" src=""https://awesome.re/badge.svg""></a>
+```
+
+Also, in #1997 @sindresorhus mentions ""Don't have both the image header and the text header.""
+This is not included in the guidelines. The wording of the point `The heading title of your list should be in title case` implies there has to be a text header, which is a contradiction.",https://github.com/sindresorhus/awesome/issues/2097
+2089,Add yarn ,closed,[],2021-10-31T18:28:27Z,jvolima,,https://github.com/sindresorhus/awesome/issues/2089
+2073,I made a web site with thanks to you,closed,[],2021-10-13T02:35:19Z,andriksantos,"Welcome to AMAZING LIST ™
+This is a compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your off-limits project!
+
+For that reason, this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at all times. The repository is divided by programming languages, in each language you can find resources for that language, frameworks, libraries and much more.
+
+If you are interested in contributing to this repository, you can do so, but first read the Contribution Guidelines
+
+Without you none of this would be possible! Mentioned in Awesome
+
+https://andriksantos.github.io/amazinglist/",https://github.com/sindresorhus/awesome/issues/2073
+2068,Add a social banner for project,closed,[],2021-10-08T16:17:59Z,ksenginew,"I had created a article of ""Top 10 trending github repos of the week💜.""
+
+Here https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-k7
+
+I can't see your social banner there.
+Please add a social banner to this project
+
+According to github docs
+> Customizing your repository's social media preview
+You can customize the image displayed on social media platforms when someone links to your repository.
+>
+> Until you add an image, repository links expand to show basic information about the repository and the owner's avatar. Adding an image to your repository can help identify your project across various social platforms.
+
+See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview
+
+Thanks 😊
+",https://github.com/sindresorhus/awesome/issues/2068
+2049,Request: Submodule all linked repos,closed,[],2021-08-25T18:08:42Z,Jwink3101,"As the title says, I can see some value in making a submodule of each of these. Maybe with an auto update every 24 hours? Could be very useful for archival.",https://github.com/sindresorhus/awesome/issues/2049
+2046,setup redirects for awesome lists using awesome.re,closed,[],2021-08-19T16:34:19Z,binyamin,"It would be super handy if, for example, https://awesome.re/go would redirect to https://github.com/avelino/awesome-go. Since GitHub Pages doesn't appear to support setting redirects, the awesome.re site would likely move somewhere like vercel or netlify.",https://github.com/sindresorhus/awesome/issues/2046
+2041,Add awesome-tmux,closed,[],2021-07-12T16:27:03Z,jjspace,"I was recently using [awesome-tmux](https://github.com/rothgar/awesome-tmux) to help me set up tmux and I realized it wasn't on this list. I think it could fit under Platforms or Dev Environment. I don't know all the requirements to figure out if it truly is an ""awesome"" list so I didn't want to open the PR myself.",https://github.com/sindresorhus/awesome/issues/2041
+2027,Add Awesome Fetch,closed,[],2021-05-31T09:38:05Z,beucismis,"Hi, this awesome list holds command-line fetch tools. Repo: https://github.com/beucismis/awesome-fetch",https://github.com/sindresorhus/awesome/issues/2027
+2015,Love this library ,closed,[],2021-05-17T06:41:13Z,baobaoack000,,https://github.com/sindresorhus/awesome/issues/2015
+2008,Awesome Readme No Longer Maintained,closed,[],2021-05-07T17:45:43Z,rayhanadev,"It seems that it's been over a year since anyone on the [awesome-readme](https://github.com/matiassingers/awesome-readme) team was actively monitoring the repository. There are quite a few stale pulls and issues that need to be addressed. I see quite a lot of potential for awesome-readme, but sadly none of it can be achieved since the team is no longer active :C.
+
+In addition if you are willing, I would like to volunteer to manage a new awesome-readme fork/repo. Is this something that is doable?
+
+Hope you get back to me,
+~ Ray",https://github.com/sindresorhus/awesome/issues/2008
+2004,This is a front for advertising revenue; please delist Awesome Chalice,closed,[],2021-05-03T18:22:58Z,ghost,"I did not charge any money for the large amount of work I put into Awesome Chalice, a community resource.
+
+In order to have it listed here, I had to put a lot more work into it. It turns out that those guidelines are so that the list renders appropriately on project-awesome.org, where you strip out links, such as to our community Slack channel, provide no link back to the original list and display advertisements. The fatal blow is that because you have higher page rank, you prevent the original lists from ranking well in Google, having your own website show up instead. This is a very predatory practice, and it's being done fully intentionally and with the full knowledge of @sindresorhus, who has employed this strategy intentionally.
+
+https://project-awesome.org/chalice-dev/awesome-chalice
+
+",https://github.com/sindresorhus/awesome/issues/2004
+1986,Urban Planning Resources,closed,[],2021-04-21T22:39:18Z,d-wasserman,"Hi Awesome List Providers, 
+
+I had a question - we have a repository that I think aligns with the awesome lists intent, but we don't want to rename our repo to much beyond markdown edits. What suggestions would you provide to integrate this into the the ""awesome"" framework?
+[planning-technology-resources](https://github.com/APA-Technology-Division/planning-technology-resources)
+",https://github.com/sindresorhus/awesome/issues/1986
+1977,Awesome Raspberry Pi software,closed,[],2021-04-03T16:21:17Z,hmsjy2017,"I just created a repo about awesome software for Raspberry Pi. It is under improvement.
+https://github.com/hmsjy2017/awesome-raspberry-pi-software",https://github.com/sindresorhus/awesome/issues/1977
+1976,improve search,closed,[],2021-04-02T10:18:13Z,VladimirAlexiev,"Frankly I don't understand the search at https://awesomelists.top
+- I search for ""Kafka"" and the first hit is https://awesomelists.top/#/repos/adafruit/awesome-adafruitio.
+But it doesn't even contain that word!
+- It should return https://awesomelists.top/#repos/onurakpolat/awesome-bigdata where Kafka appears 19 times, 
+or https://awesomelists.top/#repos/manuzhang/awesome-streaming where Kafka appears 8 times.
+
+Cheers!",https://github.com/sindresorhus/awesome/issues/1976
+1975,section anchors,closed,[],2021-04-02T09:23:39Z,VladimirAlexiev,"@sindresorhus 
+- When I'm looking at a list, eg https://awesomelists.top/#repos/onurakpolat/awesome-bigdata
+- And I click on a heading (section), eg Data Ingestion
+- I want a URL with anchor `data-ingestion` to be in the address bar
+- So I can share that with a co-worker directly, eg https://awesomelists.top/#repos/onurakpolat/awesome-bigdata--data-ingestion
+
+Notes:
+- Inspect of the links on top shows there is something like that in the HTML eg
+```
+<a class=""cate-anchor"" data-anchor=""#data-ingestion"">Data Ingestion</a>
+```
+- Such anchors exist on github and are usable, eg https://github.com/onurakpolat/awesome-bigdata/blob/master/#data-ingestion
+- They **almost** work on https://awesomelists.top:
+  - Go to https://awesomelists.top/#repos/onurakpolat/awesome-bigdata
+  - Now go to https://awesomelists.top/#data-ingestion, and you end up at the right place
+  - But of course, if you go to https://awesomelists.top/#data-ingestion directly (in new tab or new incognito window), it doesn't go to the right place
+- A URL with two hashes `https://awesomelists.top/#repos/onurakpolat/awesome-bigdata#data-ingestion` is not valid, and if I use this, your site gets confused
+  - So I suggest using `--` instead of the second `#`, eg: `https://awesomelists.top/#repos/onurakpolat/awesome-bigdata--data-ingestion`",https://github.com/sindresorhus/awesome/issues/1975
+1972,Manifesto - Table of contents,open,[],2021-03-26T20:46:18Z,antleblanc,"Hi!
+
+A recent tweet mentioned following information:
+
+> GitHub now automatically creates a table of contents for your README.md files from your headers.
+
+Original tweets:
+
+https://twitter.com/github/status/1376636651963842562?s=21
+
+https://twitter.com/natfriedman/status/1375430850620256257
+
+From the [Manifesto page](https://github.com/sindresorhus/awesome/blob/main/awesome.md#stylize-your-list-properly), it says:
+
+> Create a table of contents (…)
+
+Do you think that the Manifesto could be updated and stop mentioning the _Table of contents_ anymore?
+
+Thank you!
+
+
+",https://github.com/sindresorhus/awesome/issues/1972
+1971,Awesomeappsec no longer maintained ,closed,[],2021-03-22T18:44:26Z,adds68,"The https://github.com/paragonie/awesome-appsec list seems to be no longer maintained.
+
+There are 19 pull requests open and 12 issues, the last commit was 2 years ago.
+
+I also opened an issue asking if the list was being maintained and if i could help out: https://github.com/paragonie/awesome-appsec/issues/69
+
+There has been no response yet, nearly coming up to 1 month.
+
+I have forked the list and would now like to start merging PRs and cleaning up the list, is this something that is possible?
+
+",https://github.com/sindresorhus/awesome/issues/1971
+1968,Add SnowFS,closed,[],2021-03-13T22:35:50Z,sebastianrath,"Hi!
+
+Are new projects welcome? I would like to propose a new project called SnowFS, especially since the project is looking for more contributors. It is focusing on version control for binary files and is written in TypeScript. https://github.com/Snowtrack/SnowFS
+Does this look interesting for this list?
+
+Thanks!",https://github.com/sindresorhus/awesome/issues/1968
+1957,awesome-shell deserves to be in the list,closed,[],2021-02-24T00:32:24Z,shinokada,I think [awesome-shell](https://github.com/alebcay/awesome-shell) deserves to be on the list.,https://github.com/sindresorhus/awesome/issues/1957
+1955,Mobile section,closed,[],2021-02-22T11:46:41Z,LeonardoRosaa,"You do think about create a mobile section too? I think awesome!
+
+Thanks for repository!!",https://github.com/sindresorhus/awesome/issues/1955
+1948,Section for GitHub README Tools?,closed,[],2021-02-10T03:33:02Z,dhyeythumar,"Can we have a section for awesome GitHub README tools?
+
+For example:
+- [youtube stats card for GitHub Readmes](https://github.com/Dhyeythumar/youtube-stats-card) by @dhyeythumar
+- [github readme stats](https://github.com/anuraghazra/github-readme-stats) by @anuraghazra
+
+and many more...",https://github.com/sindresorhus/awesome/issues/1948
+1934,Add Chef to the list,closed,['invalid'],2021-01-18T06:09:11Z,Nirbhay1997,It is a configuration management software written in ruby.  ,https://github.com/sindresorhus/awesome/issues/1934
+1925,Resources about awesome Java Spring backend ,closed,[],2020-12-27T17:26:41Z,GrandGarcon,,https://github.com/sindresorhus/awesome/issues/1925
+1920,Creating a GitHub Action that tweets new Awesome Entries,closed,[],2020-12-13T10:33:21Z,Ly0n,"Hey Awesome people,
+
+Problem:
+I love awesome lists but they do have one essential problem. It is very hard to follow new projects on awesome lists.
+It would be nice to create a newsfeed for readers to stay informed about new entries. 
+
+Solution.
+We created a simple GitHub Action that creates tweets based on the commit messages. Contributors can define there own custom tweet message by defining the Pull Request title in a corresponding way. 
+
+The script checks if the last commit message on the main branch contains `https` and creates a tweet based on the corresponding line.
+https://github.com/protontypes/awesome-twitter-action
+
+1. Add the Github Action Script to .github/workflows/tweet.yml
+2. Create a Twitter Developer Account.
+3. Add the Login data to your project secrets.
+4. Activate your Github Actions by pressing the Activate GitHub Action for this Projects button on the Action Tab of your project.
+5. Create a Commit Message with an URL. Since the title of a pull request is included in the commit message, contributors can create user-specific Twitter messages.
+
+It would be nice to get your feedback. The action is already integrated here: 
+https://github.com/protontypes/awesome-robotic-tooling
+
+Do you see any better integration that might be more intuitive and fit better in the Awesome list workflow? At the moment we assume that every commit is always a new project entry. ",https://github.com/sindresorhus/awesome/issues/1920
+1918,replace flask link,closed,[],2020-12-10T20:08:38Z,mjhea0,"Hi. I couldn't find anything related to any policies on replacing a link (except for https://github.com/sindresorhus/awesome/issues/1063), but before I go through the process of getting my list ready for a PR, I'd like to know if it would be possible to add another Flask list or replace the current list altogether.
+
+1. My awesome Flask list: https://github.com/mjhea0/awesome-flask
+2. The current list thats listed (https://github.com/humiaozuzu/awesome-flask) has not been updated in over 15 months. I created my list back in Sep 2019 as I was tired of PRs not being addressed. For more, review https://github.com/mjhea0/awesome-flask/issues/3. I update my list regularly.
+3. Also, if it helps with my request, I do maintain another awesome list (https://github.com/mjhea0/awesome-fastapi) that's currently listed, so I do understand the work required to maintain a list.
+
+Thanks!",https://github.com/sindresorhus/awesome/issues/1918
+1910,Awesome Statistics Project,closed,[],2020-11-18T18:37:30Z,PedroBarcha,"Hi there, everyone!
+
+I'm about to start a free software project in which I am going to get statistics (license, number of contributors, commits activity etc) of a bunch of github repos. In order to do that, I intend to use the repos mentioned here in Awesome. For that, I will need all the URLs of all the Awesome Lists. Is there an easy way to get all those URLS (maybe with some other open source project or some Awesome feature that I am missing)?
+
+Thanks in advance.",https://github.com/sindresorhus/awesome/issues/1910
+1897,Please add Awesome Windows Devs ,closed,[],2020-11-07T03:10:16Z,ghost,"Please add https://github.com/alannt777/AwesomeWindowsDevs
+
+/cc @sindresorhus ",https://github.com/sindresorhus/awesome/issues/1897
+1893,Editors - Nano,closed,[],2020-11-02T14:01:05Z,JeswinSunsi,"Hey there!
+I was just wondering why Nano isnt in the list of editors. Thanks.",https://github.com/sindresorhus/awesome/issues/1893
+1883,Awesome API Documentation Examples...,closed,['list request'],2020-10-15T13:57:45Z,SimonGodefroid,"Hey guys, I don't know how this sounds but I haven't find a good list of real life API documentation that are awesome.
+
+For instance at work we use some RAML parser documentation and I wanted to look at an amazing documentation to inspire myself and although swagger's pet store is a good example, I haven't found online a list of just Awesome API Documentations (themselves) and only found lists of tools to make great API documentations.
+
+Please close if judged irrelevant and thanks for these awesome lists.",https://github.com/sindresorhus/awesome/issues/1883
+1881,Suggestion,closed,[],2020-10-13T10:41:55Z,irodionzaytsev,"I'd like to make a list containing self-contained resources. I have made a [question](https://physics.stackexchange.com/questions/586757/self-contained-study-resources) about this on stackexchange, but then thought that an awesome-list would be a better place for such topic. Do you think an awesome-list would be appropriate format? Apologies if I shouldn't submit this question as issue, please tell me how to ask such questions properly.",https://github.com/sindresorhus/awesome/issues/1881
+1870,Add Awesome-PhySec,closed,[],2020-09-27T08:03:20Z,LiveGray,Please add https://github.com/l373/Awesome-PhySec to this awesome list of awesome projects. 👍🏽 ,https://github.com/sindresorhus/awesome/issues/1870
+1854,Add Awesome Git list to Development Environment section,closed,[],2020-08-26T15:41:36Z,flutefreak7,"Development Environment section has lots of git-related stuff, but I don't see awesome-git on there:
+
+https://github.com/dictcp/awesome-git",https://github.com/sindresorhus/awesome/issues/1854
+1849,New awesome related to security,closed,[],2020-08-15T16:03:52Z,zer0yu,https://github.com/zer0yu/Awesome-CobaltStrike,https://github.com/sindresorhus/awesome/issues/1849
+1847,how about add a  awesome-cn plan?,closed,[],2020-08-14T07:09:15Z,Wheeeeeeeeels,"Hello! I would like to add a Chinese translation version of this project to further promote this project, is that ok?",https://github.com/sindresorhus/awesome/issues/1847
+1828,Awesome Badge - certificate verify failed,closed,[],2020-07-20T11:47:05Z,demiters,"Apologies if this isn't the right place for this but awesome_bot on travis is throwing this error for awesome badge:
+```
+Issues :-(
+> Links 
+  1. [L01]  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg SSL_connect returned=1 errno=0 state=error: certificate verify failed
+```",https://github.com/sindresorhus/awesome/issues/1828
+1819,Add awesome free during covid,closed,[],2020-07-09T16:33:52Z,empeje,"Hi, I'm currently curating the free during Covid19 resources, e.g. online courses, software, and many others. Is it possible if I include it here? Here is the repository https://github.com/kulkultech/free-during-covid",https://github.com/sindresorhus/awesome/issues/1819
+1810,Removing broken links from lists,open,[],2020-06-23T11:33:45Z,basharovV,"I've got a list of [every dead or broken link in every awesome list](https://github.com/basharovV/StumbleUponAwesome/tree/master/extension/data/broken-urls/awesome), along with the error, which is probably useful to the list maintainers. 
+
+Here is the output from my cleanup script, which checks every URL in every awesome list:
+```
+Total urls: 47941  Valid urls: 41299 Invalid urls: 6642  HTTP errors: 2044  Other errors: 2406
+```
+
+That's 14% of all links being unavailable...
+
+If you maintain an awesome list, feel free to find the file for your list and check if it has any dead links. ",https://github.com/sindresorhus/awesome/issues/1810
+1806,Create awesome list incubator,closed,[],2020-06-17T06:16:26Z,Richienb,"For lists which haven't existed for more than 30 days or ones that are still pretty empty, we could add them to a separate list that people can discover them. This can also be used to help raise initial awareness of the new list.",https://github.com/sindresorhus/awesome/issues/1806
+1793, Could you please rename master branch?,closed,[],2020-06-15T05:41:04Z,ghost,"Master and slave terminology has historical racist baggage. I think we should help try to remove them from our code to make it more inclusive. Google inclusive documentation already mentions this, would you please consider alternatives such as canary, edge and develop?
+
+PS - why not main? 
+https://www.nakasendoway.com/the-japanese-family-system/",https://github.com/sindresorhus/awesome/issues/1793
+1765,"Just launced the 'delightful' project, inspired by awesome",closed,[],2020-05-04T21:32:24Z,aschrijver,"@sindresorhus hi Sindre,
+
+I created this issue to let you know that - inspired by awesome project - I just launched an adaptation, called the **delightful** project: collecting gems of freedom :gem: 
+
+It is hosted on Codeberg. The variation lies in the fact that only free, non-commercial and humanetech entries will be allowed to exist in the various curated lists. So - more or less - freedom is the theme, and the primary audience are those on the alternative web (fediverse et al).
+
+In the project I give - I think - due credit to you, and this great project. But you judge for yourself.. the project is at this location:
+
+https://codeberg.org/teaserbot-labs/delightful",https://github.com/sindresorhus/awesome/issues/1765
+1764,Mislead category about networking.,closed,['help wanted'],2020-05-01T02:57:20Z,qin-nz,"
+Hi, in category `Networking`, there are 3 awesome, but there NOT same things.
+
+> Networking
+> Software-Defined Networking
+> Network Analysis
+> PCAPTools
+
+`Software-Defined Networking` and `PCAPTools` are about Internet or Ethernet or TCP/IP.
+But  [Network Analysis](https://github.com/briatte/awesome-network-analysis) is about deeplearning or graph (a mathematical term).
+
+So I think it might be placed in `Big Data` category.
+",https://github.com/sindresorhus/awesome/issues/1764
+1759,Add a Natural Science theme?,closed,[],2020-04-16T20:02:48Z,erwanp,"I've found many Natural Science related packages in the Miscellaneous theme. Ex:
+
+- Neuroscience
+- Bioinformatics
+- Cheminformatics
+- Neuroscience
+- Biomedical Information Extraction
+
+In #1213 adding a Natural Science theme was suggested, but eventually closed because of not activity. 
+Should I proceed and add this new theme? ",https://github.com/sindresorhus/awesome/issues/1759
+1755,.,closed,[],2020-04-09T19:49:20Z,ghost,,https://github.com/sindresorhus/awesome/issues/1755
+1748,Add Awesome KubeCon,closed,[],2020-03-28T11:56:38Z,mlycore,"Hi, I'd like to open a pull request for [awesome-kubecon](github.com/mlycore/awesome-kubecon) in a category of cloud-native, it's a collection of every KubeCon speeches since 2016. People who are interested in cloud native would easily goto the KubeCon speech video and slide under different topics.",https://github.com/sindresorhus/awesome/issues/1748
+1741,Change Redux link,closed,[],2020-03-23T10:55:40Z,KODerFunk,"Existed link to https://github.com/brillout/awesome-redux is outdated (last commit on 14 Mar 2017) and have only 315 stars.
+
+Need change to more actual https://github.com/xgrommx/awesome-redux (last commit on 4 Mar 2020 and have ~12000 stars).",https://github.com/sindresorhus/awesome/issues/1741
+1736,awesome-awesome-covid19 or all seperately?,closed,[],2020-03-18T11:46:07Z,tomByrer,"I was going to make an (not) ""awesome-coronavirus"" list, but seems several others beat me to it, so I made this instead:
+
+https://github.com/tomByrer/awesome-awesome-covid19
+
+I could add this single link, or link add all the other lists directly?
+
+TIA :)",https://github.com/sindresorhus/awesome/issues/1736
+1702,add Gitea's awesome,closed,[],2020-02-23T01:52:40Z,6543,https://gitea.com/gitea/awesome-gitea,https://github.com/sindresorhus/awesome/issues/1702
+1698,Request to have my list added as an awesome-software-engineer list,closed,[],2020-02-12T15:09:52Z,devantler,"Hi, I am currently making an all-in-one list with all the stuff I find relevant and usable as a student studying software engineering. I would love my list to be an awesome list, but I am not entirely sure it fits. I don't want my list to visit to many other lists, as I find it very user friendly, that everything is in one place, so people don't have to scatter through lists to find what they are looking for. This said, I am open for it, as long as the other lists lives up to expectations.
+
+The list is here, and Is currently a wip, which I plan to maintain for many years to come: 
+
+https://github.com/niem94/my-software-engineer-list
+
+If the list can be considered an awesome list, I will of course rename it and add tags/banners to reflect that. 
+
+Hope to hear from you 🤞 🤞 ",https://github.com/sindresorhus/awesome/issues/1698
+1695,Awesome CLI,closed,[],2020-02-08T20:50:31Z,umutphp,"Many thanks to @sindresorhus and all the other list owners and contributors for such a great value.
+
+I created a CLI tool to hang around awesome lists. I hope you all enjoy it :).
+
+[https://github.com/umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) ",https://github.com/sindresorhus/awesome/issues/1695
+1680,Would author add data structures and algorithms list?,closed,[],2020-01-02T14:12:20Z,lizhongzhen11,"Does author will add data structures and algorithms list?
+There are so many good projects about data structures and algorithms in github. Would author add  it?
+",https://github.com/sindresorhus/awesome/issues/1680
+1678,Semantic PR names?,closed,[],2019-12-30T04:40:55Z,Richienb,"For the title format [PR requirement](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-pull-request), am I able to use a semantic variation or is it strictly as documented? (example: `feat: Add Swift` instead of `Add Swift`)
+
+cc @sindresorhus ",https://github.com/sindresorhus/awesome/issues/1678
+1673,Recommend a good golang resource collection,closed,[],2019-12-20T09:03:40Z,jingyigong,https://github.com/shockerli/go-awesome,https://github.com/sindresorhus/awesome/issues/1673
+1667,Add Awesome Design,closed,[],2019-11-27T10:52:43Z,leobel96,Please add https://github.com/gztchan/awesome-design/blob/master/README.md,https://github.com/sindresorhus/awesome/issues/1667
+1661,Adding a jhipster,closed,[],2019-11-19T10:21:39Z,entvex,"Would https://www.jhipster.tech/ fit into this list ?
+JHipster is a development platform to generate, develop and deploy Spring Boot + Angular / React / Vue Web applications and Spring microservices. 
+
+If so i'll make a pull request with it.",https://github.com/sindresorhus/awesome/issues/1661
+1658,Order by alphabetical for each category (e.g. Programming Languages),closed,[],2019-11-18T03:46:45Z,ki4070ma,Alphabetical order is more user friendly to find the topic.,https://github.com/sindresorhus/awesome/issues/1658
+1625,C# is missing in the Programming Languages list ,closed,[],2019-10-05T09:26:27Z,Artanisx,Title. How come? ,https://github.com/sindresorhus/awesome/issues/1625
+1619,Lint Awesome itself,open,[],2019-09-22T18:11:37Z,sindresorhus,"https://github.com/sindresorhus/awesome/pull/1394 went stale. Would be nice to finish it at some point. However, [awesome-lint](https://github.com/sindresorhus/awesome-lint) could probably be made better first.",https://github.com/sindresorhus/awesome/issues/1619
+1617,AddNew,closed,[],2019-09-17T14:36:59Z,eaze92,Add new awesome android projects automatically via github scripts,https://github.com/sindresorhus/awesome/issues/1617
+1604,Regarding Archived Projects,closed,[],2019-08-13T12:59:35Z,zaidchauhan,"Hello,
+
+First of all, this is great work and it serves a first reference to look for some awesome things, specifically in terms of rapidly growing frontend ecosystem.
+
+However, sometime the project listed here is get archived (by it's owner), what is the guideline in this regards?  
+Should the listing have some text or indicator that says it before user go to particular repository and find out that author/maintainers no longer believe in the idea (or just have no time to or have more awesome stuff to work) ?
+
+Ex: https://github.com/mdo/css-perf listed at https://github.com/davidsonfellipe/awesome-wpo#benchmark---css
+
+I know `awesome-wpo` is different repo just posting here what should be guideline in general for such listing.
+
+Happy to contribute ",https://github.com/sindresorhus/awesome/issues/1604
+1603,Add awesome pipeline,closed,[],2019-08-12T10:43:10Z,pickfire,https://github.com/pditommaso/awesome-pipeline,https://github.com/sindresorhus/awesome/issues/1603
+1602,Awesome list for country?,closed,[],2019-08-11T14:11:08Z,jerrychong25,"Hi all,
+
+I am creating [Awesome Malaysia](https://github.com/jerrychong25/awesome-malaysia) for curated list for all Malaysia resources.
+
+I would like to add this into awesome list, however there is no country section for adding so.
+
+May I know where should this added into?
+
+Thanks.",https://github.com/sindresorhus/awesome/issues/1602
+1598,awesome-oss-sdgs  & CC0 license trick,closed,[],2019-08-04T03:33:30Z,AdrienLemaire,"Hi,
+
+I'm creating a new awesome list for ""Awesome Open Source projects dedicated to tackling global challenges"", and looking at the [Requirements for your Awesome list](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-awesome-list), it took me a while to figure out the proper way to add the license to the repo.
+
+The trick is in [this comment](https://github.com/github/choosealicense.com/issues/496#issuecomment-341561904).
+
+After creating a github repo, we can simply go `https://github.com/<user>/<repo>/community/license/new?branch=master&template=cc0-1.0`, and it will nicely appear in [the LICENSE page](https://github.com/Fandekasp/awesome-oss-sdgs/blob/master/LICENSE).
+
+Adding this trick to the ""Has an appropriate license"" section of the doc could be useful for future contributors. Also, being more specific about the `please add comment with just the word unicorn` part could avoid some errors. I added the comment [in the git commit](https://github.com/Fandekasp/awesome-oss-sdgs/commit/ffcb7d229c22120172ca27d17c880fa737f6b456), and I doubt you'll notice it when I submit the repo next month.",https://github.com/sindresorhus/awesome/issues/1598
+1587,Add awesome design to the list,closed,[],2019-07-23T17:24:58Z,jonadem,"Please, add https://github.com/gztchan/awesome-design
+
+It is missing to this awesome list ! ;-)",https://github.com/sindresorhus/awesome/issues/1587
+1581,A web scraper awesome-list?,closed,[],2019-07-06T08:28:46Z,PeskyPotato,"I've noticed there is not awesome-list repository for web scrapers/crawlers and wanted to create one. 
+
+[This one](https://github.com/lorien/awesome-web-scraping) seems to be maintained but is not part of the awesome-list repository but is still a good list. I am aware that it does not meet the contribution requirements here (#675). 
+
+I have some resources I've been using and collecting for some time now, is this a good reason to start a new list?",https://github.com/sindresorhus/awesome/issues/1581
+1575,Review pull_request_template.md and create-list.md,closed,[],2019-06-10T06:51:25Z,missmatsuko,"create-list.md has at least 1 rule that's not in pull_request_template.md and could get missed by people making a PR:
+```
+Your awesome list should be named awesome-list-name""
+```
+
+I think these files could either be combined, or the PR template could be simplified (without removing rules), and create-list.md could have more details about each requirement.
+
+I think if the PR template were more like a checklist or form, people would be able to follow it better.
+
+I can give it a try, if you're ok with this suggestion. 
+",https://github.com/sindresorhus/awesome/issues/1575
+1572,Would make sense adding awesome-* lists for learning languages?,closed,[],2019-05-24T17:58:29Z,luizdamim,"I started learning German recently and have collected a huge amount of material related to it: dictionaries, courses, Youtube channels, etc.
+
+How about creating awesome lists for learning (non programming) languages?",https://github.com/sindresorhus/awesome/issues/1572
+1570,would love to add some free theme collection list ,closed,[],2019-05-22T11:08:01Z,mehedi-sharif,"In here there should be a list for free and premium themes , and also some web development tools . Would love to contribute . 
+Thanks",https://github.com/sindresorhus/awesome/issues/1570
+1565,add WordPress to Content System Manager category,closed,[],2019-05-17T02:35:43Z,RodrigoWebDev,,https://github.com/sindresorhus/awesome/issues/1565
+1525,I love this repository,closed,[],2019-02-15T15:28:38Z,manan2501,"Its really helpful to all kind of people. Starting from beginning and ending to experts
+",https://github.com/sindresorhus/awesome/issues/1525
+1516,programming language section can add Ada,closed,[],2019-01-30T18:10:17Z,jaypatelani,https://github.com/ohenley/awesome-ada,https://github.com/sindresorhus/awesome/issues/1516
+1510,Add awesome-unity to the list.,closed,[],2019-01-23T16:14:48Z,agarcialeon,"Hi,
+
+I have seen that related Unity3D (awesome) repositories already exists on Github. These are some of them:
+
+- https://github.com/RyanNielson/awesome-unity
+- https://github.com/insthync/awesome-unity3d
+- https://github.com/netpyoung/awesome-unity-free
+
+but most are outdated or aren't as complete as I could expect.
+
+So I've decided to for the first one and add the contents of all of them in one repository called [Awesome Unity](https://github.com/agarcialeon/awesome-unity/). 
+
+It includes a logo as other awesome lists, best clarification of the goals of the repository and to do items that can provide work to visitors.
+
+I have included learning resources and a wiki that I will complete step by step to provide a well defined Unity3D guide to beginners/intermediate/advanced users to quickly improve its work while developing with this game engine.
+
+I'll try to contact with the owners of the rest of the repositories in order to agree in sharing this only repository and improve it as much as possible.
+
+Could be possible to add this repository to the list to get more attention of Unity developers?
+
+Thanks.
+
+Note: Some of the resources are starred repositories that I keep while in search of a good solution for common tasks that I do in Unity. But I expect that users contribute with their own options.
+",https://github.com/sindresorhus/awesome/issues/1510
+1509,Is there a list for wikis?,closed,[],2019-01-23T00:22:06Z,Kreijstal,"I'd like something like a list where these projects belong
+- https://github.com/rstacruz/cheatsheets/ Amazing wiki about cheatsheets
+- https://github.com/open-source-ideas/open-source-ideas what it says.
+
+",https://github.com/sindresorhus/awesome/issues/1509
+1506,Include awesome-datahoarding,closed,[],2019-01-19T22:14:44Z,ghost,https://github.com/simon987/awesome-datahoarding,https://github.com/sindresorhus/awesome/issues/1506
+1496,Awesome dashboard (and visualization) missing,closed,[],2019-01-10T13:02:17Z,harobed,"Hi,
+
+[Awesome dashboard (and visualization)](https://github.com/obazoud/awesome-dashboard) missing in [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+Best regards,
+Stéphane",https://github.com/sindresorhus/awesome/issues/1496
+1495,Awesome dataviz missing,closed,[],2019-01-10T13:01:17Z,harobed,"Hi,
+
+[Awesome dataviz](https://github.com/fasouto/awesome-dataviz) missing in [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+Best regards,
+Stéphane",https://github.com/sindresorhus/awesome/issues/1495
+1481,"Hi, Django Link is broken",closed,[],2018-12-20T00:50:14Z,yoandresaav,"Hi, Django Link is broken",https://github.com/sindresorhus/awesome/issues/1481
+1478,Awesome Django Link Broken,closed,[],2018-12-16T10:42:11Z,MeNsaaH,"The link to Awesome Django returns a 404 Error page. My Guess is the Repository has being deleted.
+Why not replace with the current Awesome-django repo
+https://github.com/wsvincent/awesome-django",https://github.com/sindresorhus/awesome/issues/1478
+1474,I need help for gathering Technology radars,closed,[],2018-12-06T14:41:42Z,urosjarc,"Hey I would really like some help with this request that I have.
+
+It would be really awesome if you could help me gather a list of technology radars, currently, I have found only 3 of them but I would really like to add some more in the list... I will then create pull request to add them in this repo.
+
+- [TIOBE index](https://www.tiobe.com/tiobe-index/)
+- [ThoughtWorks radar](https://www.thoughtworks.com/radar/techniques)
+- [Cloud Native](https://www.cncf.io/projects/)",https://github.com/sindresorhus/awesome/issues/1474
+1473,"Awesome lists to evaluate add: Interview Questions, JavaScript Crypto Libraries, Linux Software, Creative Resources for Developer and Designer",closed,[],2018-12-06T08:15:19Z,ivangsosa,"Hi. I pass some lists that I have in bookmarks. Best regards.
+
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/gabrielizalo/Awesome-JavaScript-Crypto-Libraries
+https://github.com/luongvo209/Awesome-Linux-Software
+https://github.com/gztchan/awesome-design",https://github.com/sindresorhus/awesome/issues/1473
+1470,Awesome Roadmaps,closed,['list request'],2018-11-30T06:11:21Z,ugurozturk,"Hi, there is amazing roadmaps in the github. So i have feeling nice if there would be awesome roadmaps. 
+
+Examples
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/adam-golab/react-developer-roadmap
+https://github.com/BohdanOrlov/iOS-Developer-Roadmap",https://github.com/sindresorhus/awesome/issues/1470
+1464,Awesome Power BI Heroes,closed,[],2018-11-24T10:37:38Z,NajiElKotob,"https://github.com/NajiElKotob/Awesome-Power-BI-Heroes
+
+Thank you,",https://github.com/sindresorhus/awesome/issues/1464
+1459,add awesome-linux-software,closed,[],2018-11-10T15:19:45Z,leobel96,https://github.com/luongvo209/Awesome-Linux-Software,https://github.com/sindresorhus/awesome/issues/1459
+1458,Piracy awesome,closed,[],2018-11-10T14:56:27Z,leobel96,please add https://github.com/Igglybuff/awesome-piracy/,https://github.com/sindresorhus/awesome/issues/1458
+1455,awesome-more,closed,[],2018-11-07T10:53:48Z,manishkk,"Add awesome-mpc (multiparty computation) related to cryptography
+https://github.com/rdragos/awesome-mpc
+
+Add awesome-self-stabilization related to distributed algorithms
+https://github.com/manishkk/awesome-Self-stabilization
+
+Add awesome-distributed-systems
+https://github.com/theanalyst/awesome-distributed-systems
+
+Add awesome-rust
+https://github.com/rust-unofficial/awesome-rust
+
+Add awesome-dynamic-analysis 
+https://github.com/mre/awesome-dynamic-analysis",https://github.com/sindresorhus/awesome/issues/1455
+1453,Add datproject to decentralized-systems,closed,[],2018-11-01T12:15:21Z,alshell7,"Dat is a distributed data community and a unique distributed network allows users to store data where they want by decentralizing storage. **Awesome** isn't it?❤️
+
+Repository : https://github.com/datproject/dat
+Request for adding in : [#decentralized-systems](https://github.com/sindresorhus/awesome#decentralized-systems)",https://github.com/sindresorhus/awesome/issues/1453
+1441,Searchable Awesome,closed,[],2018-10-30T10:38:35Z,ThePixelDeveloper,"Thought I'd share something I've been working on in small parts of my spare time. 
+
+**Awesome Indexed**
+
+https://awesome-indexed.mathew-davies.co.uk
+
+**Why?**
+
+
+
+I was looking for alternatives to a service, so wanted to find all mentions of it to look for something better. It can also be used for other purposes, ie. A search for ""Symfony"" will return podcasts, jobs, tools and so on ...
+
+It's also different from the other ""Search"" projects in that it searches the content which has more value to me.
+
+---
+
+It's super simple, hopefully useful to others. It certainly was for me.
+
+Enjoy. 
+
+Ps. If this is the wrong place to post, feel free to remove. Also happy to hear suggestions. 
+
+",https://github.com/sindresorhus/awesome/issues/1441
+1439,What font is in the logo?,closed,[],2018-10-29T12:43:53Z,ghost,"What font is in the logo? I looked around online and found Sui Generis, however it did not look exactly like the one in the picture.",https://github.com/sindresorhus/awesome/issues/1439
+1438,ListList service and Awesome lists,closed,[],2018-10-29T08:16:18Z,aschrijver,"I created this issue separately from [How to grow Awesome?](https://github.com/sindresorhus/awesome/issues/784) as a reaction to @maltsev 's https://github.com/sindresorhus/awesome/issues/784#issuecomment-432389273 presenting the [ListList](https://listlist.net/) service.
+
+I think @maltsev created a great project here that has potential to grow the reach of Awesome to a broader public than Github users. I [proposed](https://github.com/sindresorhus/awesome/issues/784#issuecomment-384223195) having a tool to generate a HTML page of an awesome list, which @sindresorhus found to be overkill (a valid point, I can understand).
+
+The ListList service however, adds an aggregated view to this, plus - importantly - the RSS feed feature, which I think is real added value to Awesome (I am a great proponent of the [decentralized web](https://community.humanetech.com/t/towards-the-vision-of-the-decentralized-web/530), and this fits in).
+
+@maltsev just [PR'ed](https://github.com/engagingspaces/awesome-humane-tech/pull/5) a feed badge to my [awesome-humane-tech](https://github.com/engagingspaces/awesome-humane-tech) list, but before merging I have some things (improvements, discussion points) I'd like to bring up:
+
+- I could not find a repo for the ListList project (maybe it is on Gitlab). For me to add ListList badge, I'd like the project to be open-sourced, just like all other awesome list repo's
+
+- There is no clear license on the ListList page. My list and the top-level one (and most others probably) live in the public domain. I'd like ListList to have a public domain license too.
+
+- The ListList drops the Awesome branding. There is no awesome logo, and the collection is called _""A curated list of spectacular lists""_ .
+
+- With code repositories the number of stars says nothing about the quality of the project. But with awesome lists they do. The stars are a direct reflection how useful/valuable people think the list is. With ListList people don't land on the repo README anymore, and be less inclined to drill-down and give a star. I think ListList should have a starring capability that makes this just as easy again.
+
+- And the last point stems from my [Humane Tech](https://humanetech.com) focus: When subscribing by email, people should know your Privacy Policy. Also there is Google Tag Manager tracker on the page and use of sentry.io. Not having a PP would probably put you in breach of EU GDPR.
+
+Note: @maltsev please don't take this as undue criticism. I love your project, but think these things need a honest discussion.",https://github.com/sindresorhus/awesome/issues/1438
+1435,Add awesome-docs,closed,['list request'],2018-10-26T20:30:06Z,hipstersmoothie,There doesn't seem to be an awesome-docs. https://github.com/PharkMillups/beautiful-docs/ is pretty well established,https://github.com/sindresorhus/awesome/issues/1435
+1427,Wexflow - Yet another workflow engine and task scheduler,closed,[],2018-10-20T21:34:42Z,aelassas,"Can you add [Wexflow](https://github.com/aelassas/Wexflow) to the list please? 
+
+Wexflow is an open source extensible workflow engine and task scheduler with a cross-platform manager and designer. The goal of Wexflow is to automate recurring tasks without user intervention. Wexflow aims to make automations, workflow processes, long-running processes and interactions between systems, applications and folks easy, straightforward and clean.",https://github.com/sindresorhus/awesome/issues/1427
+1419,Awesomeness of Distributed Systems!,closed,[],2018-10-14T16:16:04Z,Prakhar0409,"Please add this awesome list to enhance awesomeness of your already awesome list xD
+https://github.com/theanalyst/awesome-distributed-systems ",https://github.com/sindresorhus/awesome/issues/1419
+1404,Browser automation tools,closed,['list request'],2018-09-28T08:52:16Z,angrykoala,Would it make sense an awesome browser automation tools list? I've been looking around and I couldn't find any list regarding this. I'm happy to create one if this list makes sense,https://github.com/sindresorhus/awesome/issues/1404
+1403,Add DevOps / continuous release / production environment / code & release process / ...,closed,['list request'],2018-09-24T10:09:11Z,7hibault,"I can't find the proper term for that, but it would be awesome to add an awesome list of tools and resources for the ""code & release process"" (which is usually called DevOps these days).  This would include topics related to source control management, continuous integration, testing, provisioning, deployment, containers, release orchestration, cloud, analytics, monitoring, security, collaboration... and many more?",https://github.com/sindresorhus/awesome/issues/1403
+1397,Add REDAXO CMS,closed,[],2018-09-14T07:39:23Z,olien,https://github.com/redaxo/redaxo,https://github.com/sindresorhus/awesome/issues/1397
+1391,Add awesome-transformer,closed,[],2018-09-05T09:35:48Z,SkyAndCloud,"[awesome-transformer](https://github.com/SkyAndCloud/awesome-transformer), should classified into `Deep Learning`。
+Transformer is a powerful model applied in sequence to sequence learning. However, when I was using transformer as my baseline in NMT research I found no good & reliable guide to reproduce approximate result as reported in original paper(even official tensor2tensor implementation), which means my research would be unauthentic. I searched on the Internet, found some implementations, obtained some performance-reproducable approaches and other learning materials, which eventually formed this project.
+I hope more researchers can benefit from it.",https://github.com/sindresorhus/awesome/issues/1391
+1382,Add Ethereum,closed,['list request'],2018-08-15T04:11:18Z,danimesq,,https://github.com/sindresorhus/awesome/issues/1382
+1381,Add ZeroNet,closed,['list request'],2018-08-15T04:10:42Z,danimesq,,https://github.com/sindresorhus/awesome/issues/1381
+1372,Suggestion: Create new sub Title: Internet of Things,closed,[],2018-08-05T11:44:00Z,GermanBluefox,"There are some projects related with IoT and Smarthome.
+I suggest to create extra Chapter for that named **Internet of Things**.
+Just now I can add to it: 
+- https://github.com/hobbyquaker/awesome-mqtt, 
+- https://github.com/hobbyquaker/awesome-homematic, 
+- https://github.com/hobbyquaker/awesome-iot, 
+- https://github.com/hobbyquaker/awesome-lego,
+- https://github.com/frenck/awesome-home-assistant 
+- and I preparing ioBroker awesome list https://github.com/ioBroker/awesome-iobroker
+ ",https://github.com/sindresorhus/awesome/issues/1372
+1365,Suggestion: Add CI to automate heavy PR load,open,[],2018-07-29T06:03:12Z,transitive-bullshit,"This would ideally combine [awesome-lint](https://github.com/sindresorhus/awesome-lint) with a linter for the pull requests themselves and the main `awesome` readme.
+
+Related to #1363 and the goal of maintaining Sindre's sanity 💯 
+
+Here's my proposed game plan:
+- create a linter based off of `awesome-lint` that lints this repo's `readme.md` to verify formatting and extract all the sub-lists
+- this linter validates every awesome list linked to via `awesome-lint`
+- maintainers will only consider PRs once they pass this CI step
+
+There will be some existing awesome lists that don't pass `awesome-lint`, so we could whitelist these for now and incrementally fix them until the whitelist can be removed.
+
+This would also put more onus on the `awesome-lint` project which appears to have been inactive for some time.
+
+Possible future extensions:
+- Include `awesome-lint` in the default `awesome` list template such that it would be enforced via CI for sub-awesome lists going forwards.
+
+@sindresorhus I'd be happy to spearhead this, since I really believe these lists help countless developers out there every day, and the current gameplan of manual reviewing (even with the help of fellow list-makers) seems sub-optimal.",https://github.com/sindresorhus/awesome/issues/1365
+1363,Project status,closed,[],2018-07-28T17:17:12Z,sindresorhus,"I got pretty burned out by this project and haven't been active for many months. This project is called Awesome and lists are expected to be of (awesomely) high-quality. Unfortunately, many submissions were not and required a lot of effort on my part to just comment on things that were already listed in the pull request guidelines. This doesn't scale to one person when there are many new submissions a day.
+
+I'm ready to put some work into this project again, but I need your help.
+
+There's a new requirement for submissions now. When you submit a new list, you're required to review at least 2 other open pull requests. This is my experiment to try to make the Awesome project self-sustaining. [Read more here.](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md#requirements-for-your-pull-request)
+
+**This requirement also applies to existing submissions, so if you like to see your submission merged, review at least 2 other pull requests and I'll prioritize getting your submission merged.**
+
+Please also go through the [list guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md) again on your own submissions. You have probably missed something.",https://github.com/sindresorhus/awesome/issues/1363
+1361,List of available data formats (from FME Safe.com),closed,[],2018-07-25T00:18:17Z,ezequias,"Take a look on all this data formats taken from FME at Safe.com.
+
+https://app.box.com/s/ifg745sla1s0ns611v6do8b5oh6vq9cg",https://github.com/sindresorhus/awesome/issues/1361
+1360,Wouldn't it be great if there could be one for UX ?,closed,['list request'],2018-07-24T09:10:15Z,mukul23,,https://github.com/sindresorhus/awesome/issues/1360
+1359,awesome tor?,closed,['list request'],2018-07-24T08:31:57Z,ralyodio,Does anyone know of an awesome-tor? I know there's more to the .onion world than just drug markets.,https://github.com/sindresorhus/awesome/issues/1359
+1354,"Would anyone be interested: ""Awesome list of hardware for Kali Linux""?",closed,['list request'],2018-07-14T14:01:36Z,ghost,"Excuse me for wasting your time if it turns out that there already exists an Awesome List or online database that already covers what I am proposing - I did not take much time in doing sufficient research to know if this is the case - but I just created a new public repo for the purpose of sharing this type of knowledge.
+
+https://github.com/CecileGS/awesome-kali-linux-hardware
+
+In a nutshell... An ""Awesome list of recommended laptops, wifi chipsets, and such for Kali Linux!""
+
+I will admit however, that I am totally new to the editorial/submission process and quality guidelines of the Awesome project. I don't know:
+-what license to use
+-if there is a styling guideline that I need to follow
+-much about Kali Linux, as I have never actually used it before but I am also extremely interested in using it for pentesting; therefore, I will need to enlist the help of security experts and experienced Kali Linux users to make this list a reality
+-if this repo is redundant, let alone if this is something that would even be remotely appreciated or wanted by anyone (i.e. I am wasting my time by attempting to solve a problem that does not exist or need a solution to)
+
+Any help, pointers, and tips for me are very much appreciated!! I would also request the green light approval status for me to proceed, from either the maintainer (preferably) or some other high profile contributor to the Awesome project.",https://github.com/sindresorhus/awesome/issues/1354
+1338,Awesome Pretty List,closed,[],2018-06-19T16:34:20Z,PaulRosset,"Hello :)
+
+I've built a website to facilitate the browsing, searchability and beautify the awesome list from this repository.
+- [Website](https://awesome.paulrossethings.com/)
+- [Github](https://github.com/PaulRosset/awesome-list-pretty)
+
+The data that are used on the website are extracted directly from [this repository](https://github.com/sindresorhus/awesome/).
+I would really appreciate if you guys tell me about what you think about this ?
+
+I hope this project will improve the awesome list :)",https://github.com/sindresorhus/awesome/issues/1338
+1337,.NET is not a language,closed,[],2018-06-19T12:49:25Z,totano,".NET is listed as a language, it should be listed as a platform (the same way JVM is listed as a platform and Java or Scala  as languages)",https://github.com/sindresorhus/awesome/issues/1337
+1324,Moving to GitLab?,closed,[],2018-06-04T15:14:12Z,ramnes,,https://github.com/sindresorhus/awesome/issues/1324
+1323,Still accepting new entries?,closed,[],2018-06-03T20:38:17Z,aschrijver,"Looking at closed PR's the last merged addition dates back from October 2017 with now 135 PR's pending..
+
+Are you still accepting new entries?",https://github.com/sindresorhus/awesome/issues/1323
+1312,Make child windows sticky if parent is sticky,closed,[],2018-05-22T10:42:00Z,nanangarsyad,"I wanted to make the child window to inherit the traits of the parent window.
+In my case I made the parent window sticky in hopping I could use it across many tags. But in my surprise the child window popped up from its parent not showing in my current workspace (tag).
+
+Here's the sequences I did, 
+1. Open a window (apps) in a specified tag/workspace  (e.g tag 1)
+2. Make that window sticky
+3. Move to to other tag/workspace
+4. Open child window (pop up windows) from parent apps.
+
+Here's the awesome i used.
+
+```
+$ awesome --version
+awesome v4.2 (Human after all)
+ • Compiled against Lua 5.3.3 (running with Lua 5.3)
+ • D-Bus support: ✔
+ • execinfo support: ✔
+ • xcb-randr version: 1.5
+ • LGI version: 0.9.2
+```
+
+Here's the screen cast,
+![awesome-stiky-popup-issue](https://user-images.githubusercontent.com/7588442/40357585-ddd8e418-5de6-11e8-98e4-9e51cdf6f6ab.gif)
+
+
+
+Thank you
+",https://github.com/sindresorhus/awesome/issues/1312
+1306,Proposal to add awesome-db-tools,closed,[],2018-05-18T19:38:49Z,mgramin,"github.com/mgramin/awesome-db-tools
+
+This is a list of database tools (ide, cli, managing, monitoring, migrations, modellers, visualization etc)
+
+",https://github.com/sindresorhus/awesome/issues/1306
+1299,Add awesome-ethereum,closed,[],2018-05-15T10:28:21Z,zyfdegh,Add github.com/vinsgo/awesome-ethereum,https://github.com/sindresorhus/awesome/issues/1299
+1288,[Suggestion] Add awesome-podcasts,closed,[],2018-05-01T08:18:23Z,skat00sh,"A curated list of podcasts for developers, programmers, AI/ML engineer, Data Scientists.
+https://github.com/rShetty/awesome-podcasts",https://github.com/sindresorhus/awesome/issues/1288
+1287,[RFC] - Introducing mmarkdown,closed,[],2018-05-01T04:31:29Z,albinotonnina,"I made this little javascript tool recently:
+
+https://github.com/albinotonnina/mmarkdown
+
+
+
+What it does is so simple that I will just paste here the description of the project:
+
+mmarkdown:
+Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
+It could be useful for big projects like this one, that rely almost entirely on markdown files as an output.
+
+An example in the wild:
+https://github.com/albinotonnina/css-in-js/tree/mmarkdown
+
+Using mmarkdown (and node.js) I made a little app to fetch and process data from npm and github (given a json list of package/repositories) and generate an updated markdown file.
+
+You could add some sort of automation to update the markdown file programmatically.
+
+It could be interesting or not. I thought it was worth showing it to you. 😀
+
+IN THIS PARTICULAR PROJECT, you could make a simple webapp to manage submissions, with sorting and filtering and voting that would output data that mmarkdown would use to generate the awesome readme file.
+
+You could add statistics to the linked resources or augment the data somehow.
+
+What you think about this? 
+I would like to start a discussion.",https://github.com/sindresorhus/awesome/issues/1287
+1283,I made a tool: mmarkdown,closed,[],2018-04-30T18:07:57Z,albinotonnina,"
+# Hello! 
+I made this little javascript tool recently: 
+
+https://github.com/albinotonnina/mmarkdown
+
+<img src=""https://user-images.githubusercontent.com/37283/39442518-6670e04a-4ca9-11e8-8a91-22c9ff73e100.png"" width=""128"" />
+
+
+
+What it does is so simple that I will just paste here the description of the project:
+> mmarkdown:
+> Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
+
+It could be useful for big projects like this one, that rely almost entirely on markdown files as an output.
+
+An example in the wild:
+https://github.com/albinotonnina/css-in-js/tree/mmarkdown
+
+Using mmarkdown (and node.js) I made a little app to fetch and process data from npm and github (given a json list of package/repositories) and generate an updated markdown file. 
+
+You could add some sort of automation to update the markdown file programmatically.
+
+It could be interesting or not. I thought it was worth showing it to you. 😀
+
+Thanks and keep up the great work here!
+",https://github.com/sindresorhus/awesome/issues/1283
+1282,Adding non-English resources to a themed list?,open,[],2018-04-30T10:26:28Z,ramnes,"Please see this issue on Awesome MongoDB: https://github.com/ramnes/awesome-mongodb/issues/43 
+
+By reading #153 and #1176, I seem to understand that all the non-English resources are supposed to go in separated lists, rather than being regrouped under the main theme list, even if they're not translations but really add to the list.
+
+Can't we do better and be more inclusive to non-English speakers? For example, by adding a country flag in front of all resources, indicating the language of the resource?",https://github.com/sindresorhus/awesome/issues/1282
+1281,Adding Back to Top Link,closed,[],2018-04-29T21:51:15Z,a-m-dev,"Hi there ,
+this awesome library is very awesome awesome ....
+but is has a single problem , which is back to top link after each subject
+please any one can handle that 
+just simple as it is , it could be so much helpful
+what i'm asking is to add a simple back to top link after every Bunch of contents....
+thank you very much for creating this awesome awesome awesome library ....
+by the way this post should be badged via enhancement tag, but i don't know how to add that tag , so i skipped it ....",https://github.com/sindresorhus/awesome/issues/1281
+1266,Add P2P,closed,[],2018-04-06T13:13:09Z,Qamar4P,https://github.com/kgryte/awesome-peer-to-peer,https://github.com/sindresorhus/awesome/issues/1266
+1263,project designing,closed,[],2018-04-04T05:27:51Z,bugalee,"i have a project on STORE MANAGEMENT SYSTEM,am working with the interface but it is some kind of hard for me to create a better one...please help!
+
+",https://github.com/sindresorhus/awesome/issues/1263
+1258,Offering the option to use flat badges,closed,[],2018-03-29T19:01:50Z,bokub,"In the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md), two badges are available for awesome lists and mentioned-in-awesome repos, with the following warning: *The badge should not be modified in any way.*
+
+![Awesome](https://awesome.re/badge.svg) ![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)
+
+In my humble opinion, this style is starting to look a bit old, and I see a lot of people using the *flat-square* badges from shields.io: ![Flat-square](https://img.shields.io/badge/style-flat--square-brightgreen.svg?longCache=true&style=flat-square) (I use them myself)
+
+I made my own versions of the awesome badges, with a flat style.
+I haven't added a single thing, only removed the gradient, the shadows and the round corners.
+
+![Awesome](https://rawgit.com/bokub/95a3fbad9279d4ef34de2b4070622229/raw/badge-flat.svg) ![Mentioned in Awesome Node.js](https://rawgit.com/bokub/95a3fbad9279d4ef34de2b4070622229/raw/mentioned-badge-flat.svg)
+
+The SVG code can be found in [this gist](https://gist.github.com/bokub/95a3fbad9279d4ef34de2b4070622229)
+
+**I think it would be great if people had a choice. What do you think?**",https://github.com/sindresorhus/awesome/issues/1258
+1256,Proposal to add awesome-blazor to the list,closed,[],2018-03-29T07:07:56Z,AdrienTorris,"Proposal to add the [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) repo to the list, in the [Front-End development](https://github.com/sindresorhus/awesome#front-end-development) chapter.
+
+For information, Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",https://github.com/sindresorhus/awesome/issues/1256
+1255,"Proposal to add Awesome engineering Vlog (youtube, vimeo etc)",closed,['list request'],2018-03-25T06:15:20Z,hasft,I don't know if this is a good idea or not. But i want to see a list of awesome software engineering vlog,https://github.com/sindresorhus/awesome/issues/1255
+1251,Add swag-for-dev?,closed,[],2018-03-21T14:19:29Z,swapagarwal,Creating an issue for people to chime in on whether we should add https://github.com/swapagarwal/swag-for-dev to this list (as per https://github.com/swapagarwal/swag-for-dev/issues/12)..,https://github.com/sindresorhus/awesome/issues/1251
+1250,Effective Altruism link 404,closed,[],2018-03-19T17:46:34Z,hexpunk,"The link to the Effective Altruism awesome list is dead.
+https://github.com/sheonhan/awesome-effective-altruism
+
+Shall we try to find a fork, resurrect it with the Wayback Machine, or just remove it from the list?",https://github.com/sindresorhus/awesome/issues/1250
+1244,Proposal to add awesome-filter to the list,closed,[],2018-03-10T06:57:28Z,dineshresearch,"@sindresorhus
+please add https://github.com/dineshresearch/awesome-kalman to Miscellaneous ",https://github.com/sindresorhus/awesome/issues/1244
+1236,Proposal to add awesome-nlp to the list,closed,[],2018-03-05T22:53:04Z,keon,"@sindresorhus 
+I made the issue #677 some time ago and never really got the time to get back to it.
+Since then we have gained active contributors (@NirantK and @the-ethan-hunt) who made the repo up-to-date.
+We believe that we are finally ready to submit our repo here and be listed as one of the awesome-lists. 
+I think we can replace 'Speech and Natural Language Processing' repo since it has not been updated for more than three years and a lot of its links are not working.
+
+Thanks,
+Keon",https://github.com/sindresorhus/awesome/issues/1236
+1227,Consider appending `#readme` to all awesome lists links,closed,[],2018-02-26T19:48:11Z,nikitavoloboev,"This will jump straight to the `readme` of the awesome list which is the most important part in an awesome list.
+
+Like for example in [node.js awesome list](https://github.com/sindresorhus/awesome-nodejs#readme).
+
+What do you think?",https://github.com/sindresorhus/awesome/issues/1227
+1225,Link in contributing.md directs to non-functional webpage,closed,[],2018-02-24T22:14:40Z,rbstrachan,"In the section **""Adding To This List""** in `contributing.md` there is a link that directs to `titlecapitalization.com`.
+
+---
+This website returns `ERR_CONNECTION_REFUSED` when loaded.
+
+Consider replacing link with `capitalizemytitle.com` instead.",https://github.com/sindresorhus/awesome/issues/1225
+1221,Spanish translation.,closed,[],2018-02-20T02:40:31Z,jraulhernandezi,"Hi guys, are you interested in a Spanish translation for your project? I´m an active translator at crowding, here is my [Profile](https://crowdin.com/profile/jraulhernandezi)",https://github.com/sindresorhus/awesome/issues/1221
+1210,Awesome Websites,closed,[],2018-02-12T05:51:50Z,deadcoder0904,"No, not some other websites
+
+Websites like http://awesomelists.top/
+
+Recently someone launched https://www.prettyawesomelists.com/ & it looks freaking awesome
+
+A simple heading like `View Website Version` or another awesome list would do the job. What do you think?",https://github.com/sindresorhus/awesome/issues/1210
+1209,devhints.io - Where in this list would this fit in?,closed,[],2018-02-11T15:14:31Z,flexdinesh,[devhints.io](https://devhints.io/) is an amazing curation of dev cheatsheets and I think it will fit somewhere in this repo but not sure where.,https://github.com/sindresorhus/awesome/issues/1209
+1208,About awesome-scalability,closed,[],2018-02-11T02:49:55Z,binhnguyennus,"I've been curating [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) for a bit shy of one and half months. It's a list of selected readings to illustrate scalability, availability, and stability design patterns in back-end development. So far it's gotten a decent number of stars; wherein your repo would this belong?",https://github.com/sindresorhus/awesome/issues/1208
+1206,About license other than creative commons,closed,[],2018-02-06T18:12:42Z,stkw0,"Why other licenses a part from creative commons are not acceptable? 
+WTFPL for example is not only a code license, it simply says that everybody is free to do whatever they want with it. So, why WTFPL is not an acceptable license for example?",https://github.com/sindresorhus/awesome/issues/1206
+1204,Harbour programming languages,closed,[],2018-02-02T16:41:52Z,ghost,"Hi,
+
+I am sending a request to attach my listed:
+https://github.com/rjopek/harbour-list
+
+
+
+A programming language Harbour is easy to learn for even a novice developer. Its code is easy to read and you can do a lot of things just by looking at it. Also, you can execute a lot of complex functionalities with ease, thanks to the standard library.
+
+Only for information purposes you can download it here:
+[Harbour 3.4](https://github.com/vszakats/harbour-core)
+[Harbour 3.2](https://github.com/harbour/core)
+
+Thank you
+Rafał
+",https://github.com/sindresorhus/awesome/issues/1204
+1203,awesome-package-manager ,closed,[],2018-02-02T14:55:08Z,damon-kwok,"awesome-package-manager 
+https://github.com/damon-kwok/awesome-package-manager",https://github.com/sindresorhus/awesome/issues/1203
+1201,awesome not resizing with Xephyr,closed,[],2018-02-01T14:33:34Z,sant527,"```
+$ awesome --version
+awesome v4.0 (Harder, Better, Faster, Stronger)
+ • Compiled against Lua 5.3.3 (running with Lua 5.3)
+ • D-Bus support: ✔
+ • execinfo support: ✔
+ • RandR 1.5 support: ✔
+ • LGI version: 0.9.1
+
+```
+`$ Xephyr -br -ac -noreset -host-cursor -resizeable :1`
+
+
+```
+$ DISPLAY=:1 awesome
+2018-02-01 20:02:17 /usr/share/awesome/lib/beautiful/xresources.lua:84: W: Failed to get xrdb value 'Xft.dpi'.
+stack traceback:
+	/usr/share/awesome/lib/beautiful/init.lua:114: in upvalue 'load_font'
+	/usr/share/awesome/lib/beautiful/init.lua:133: in local 'set_font'
+	/usr/share/awesome/lib/beautiful/init.lua:213: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/beautiful.lua:5: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/awful/tag.lua:12: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/awful/layout/init.lua:20: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/awful/init.lua:41: in main chunk
+	[C]: in function 'require'
+	/home/simha/.config/awesome/rc.lua:3: in main chunk
+2018-02-01 20:02:17 /usr/share/awesome/lib/beautiful/xresources.lua:54: W: Failed to get xrdb value 'background'.
+stack traceback:
+	/usr/share/awesome/lib/awful/hotkeys_popup/widget.lua:107: in function 'awful.hotkeys_popup.widget.new'
+	/usr/share/awesome/lib/awful/hotkeys_popup/widget.lua:460: in upvalue 'get_default_widget'
+	/usr/share/awesome/lib/awful/hotkeys_popup/widget.lua:477: in function 'awful.hotkeys_popup.widget.add_hotkeys'
+	/usr/share/awesome/lib/awful/hotkeys_popup/keys/vim.lua:171: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/awful/hotkeys_popup/keys/init.lua:11: in main chunk
+	[C]: in function 'require'
+	/usr/share/awesome/lib/awful/hotkeys_popup/init.lua:12: in main chunk
+	[C]: in function 'require'
+	/home/simha/.config/awesome/rc.lua:12: in main chunk
+2018-02-01 20:02:17 W: beautiful: can't get colorscheme from xrdb (using fallback).
+2018-02-01 20:02:17 W: awful: function timer is deprecated, see gears.timer.
+stack traceback:
+	/usr/share/awesome/lib/awful/util.lua:45: in function 'awful.util.deprecate'
+	/usr/share/awesome/lib/awful/init.lua:13: in function 'timer'
+	/home/simha/.config/awesome/rc.lua:29: in main chunk
+2018-02-01 20:02:17 W: awful: function timer is deprecated, see gears.timer.
+stack traceback:
+	/usr/share/awesome/lib/awful/util.lua:45: in function 'awful.util.deprecate'
+	/usr/share/awesome/lib/awful/init.lua:13: in function 'timer'
+	/home/simha/.config/awesome/rc.lua:646: in main chunk
+
+```
+
+
+
+
+![screenshot_20180201_200328](https://user-images.githubusercontent.com/6462531/35683759-f60bb37e-078a-11e8-8800-138070b7d239.png)
+",https://github.com/sindresorhus/awesome/issues/1201
+1198,Fork Awesome Open Source Games?,closed,['list request'],2018-01-30T15:01:54Z,pokeball99,"@leereilly @sindresorhus 
+https://github.com/leereilly/games has not been updated in 9 months with over 90 Pull Requests opened",https://github.com/sindresorhus/awesome/issues/1198
+1196,Awesome Geospatial,closed,[],2018-01-27T00:58:10Z,sacridini,"I want to add a geospatial/GIS/Remote Sensing list of tools/resources but I do not know in which category I can add this.
+
+the link to the list: https://github.com/sacridini/Awesome-Geospatial
+
+any thoughts? ",https://github.com/sindresorhus/awesome/issues/1196
+1193,Add link to awesome-developer-streams,closed,[],2018-01-25T23:02:12Z,clarkio,"I wanted to open an issue first to make sure you thought it made sense to add here and confirm the correct section it should be under. Would it be appropriate to add in the Miscellaneous section?
+
+https://github.com/bnb/awesome-developer-streams",https://github.com/sindresorhus/awesome/issues/1193
+1184,Why is Ripple under decentralized systems? It's centralized.,closed,[],2018-01-15T11:51:37Z,ralphtheninja,,https://github.com/sindresorhus/awesome/issues/1184
+1176,awesome-web-security has most of its resources in Chinese,closed,[],2017-12-30T11:16:27Z,n1trux,"… so why does it belong on this list?
+
+https://github.com/qazbnm456/awesome-web-security
+
+@qazbnm456 ",https://github.com/sindresorhus/awesome/issues/1176
+1170,Question about list format: can you use tables?,closed,[],2017-12-26T17:00:55Z,dbohdan,"How strict are the stylistic requirements on the list format; do awesome lists have to be bullet-point lists? I have two list-things that are actually mostly Markdown tables:
+* https://github.com/dbohdan/structured-text-tools
+* https://github.com/dbohdan/automatic-api
+
+Would either qualify as an awesome list with how they use tables right now?
+
+## Small Screenshots of the Lists
+<details>
+<summary>List 1</summary>
+<img src=""https://user-images.githubusercontent.com/3179832/34360977-b3c25998-ea6e-11e7-96af-c8747d78eea3.png"">
+</details>
+<details>
+<summary>List 2</summary>
+<img src=""https://user-images.githubusercontent.com/3179832/34360980-bb058e8c-ea6e-11e7-80a5-f498e27199d6.png"">
+</details>",https://github.com/sindresorhus/awesome/issues/1170
+1165,Awesome wasm,closed,[],2017-12-18T06:58:58Z,rail-ka,"[mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - Awesome WebAssembly (wasm) list.
+I did not find a mention of wasm, and also WebAssembly in the repository, I suggest adding this repository to the list, it is currently the only list.
+I also suggest discussing what category the technology falls into.",https://github.com/sindresorhus/awesome/issues/1165
+1153,"""HEIC Converter"" mentioned in README is not actually free",closed,[],2017-11-30T08:22:01Z,magicgoose,"Free software should have a free license (GPL for example). But the license for the ""HEIC Converter"" cannot be found anywhere.
+
+If the application is only available on Mac App Store and no source code is published, then it's [by definition not free](https://www.gnu.org/philosophy/free-sw.en.html) (maybe only free as in free beer). Please fix the README.",https://github.com/sindresorhus/awesome/issues/1153
+1151,Awesome-cl-software,closed,[],2017-11-27T06:13:32Z,azzamsa,"This is a list of awesome application software built with Common Lisp.
+
+https://github.com/azzamsa/awesome-cl-software",https://github.com/sindresorhus/awesome/issues/1151
+1148,Remove codesponsor from README by 8th Dec 17,closed,[],2017-11-25T10:33:10Z,ucg8j,See [here](http://mailchi.mp/f9b57b5ea377/code-sponsor-is-shutting-down-on-december-8) for announcement from codesponsor,https://github.com/sindresorhus/awesome/issues/1148
+1147,In need of help: awesome-cli (and soon awesome-bot),closed,[],2017-11-24T03:16:25Z,jacc,"I saw something about creating a bot that would detect if a list is suitable for posting. I've quickly created awesome-cli to do just that. Currently it only checks if the README is there, but when I wake up I will do much more. Please contribute! https://github.com/jacc/awesome-cli",https://github.com/sindresorhus/awesome/issues/1147
+1146,Request For Comments: Awesome UNIX,closed,[],2017-11-23T20:12:46Z,sirredbeard,"Awesome UNIX is a new Awesome list that disambiguates the terminology surrounding *NIX (UNIX, UNIX-like, Linux, etc.); introduces users and programmers to UNIX philosophy; and provides a curated, detailed list of active *NIX projects to explore, links to the community, and historical references.
+
+I am seeking constructive feedback and pull requests from the Awesome community to help further mature the list before it is eligible to be formally submitted for inclusion on the main Awesome list [in about 30 days](https://github.com/sindresorhus/awesome/blob/master/create-list.md). Again, I am not yet submitting it for inclusion on main Awesome list.
+
+Thank you for your help in advance. In order to save @sindresorhus's inbox, please submit list feedback by opening [issues on the list](https://github.com/sirredbeard/Awesome-UNIX/issues) or by creating pull requests, not below. Thank you again.",https://github.com/sindresorhus/awesome/issues/1146
+1140,Help wanted - awesome-discord,closed,[],2017-11-21T01:22:21Z,jacc,"Looking for people to help expand my list for Discord!
+
+https://github.com/jacc/awesome-discord
+
+<sub>Sent with <a href=""http://githawk.com"">GitHawk</a></sub>",https://github.com/sindresorhus/awesome/issues/1140
+1138,Awesome Presentations,closed,[],2017-11-20T10:20:38Z,Flipez,"Hi guys,
+
+It would be nice to have a awesome list of presentation frameworks which helps the presenter to create easy and nice slides, present them and so on..
+
+If there is no such list (maybe I missed it?) I could create one.
+
+Cheers",https://github.com/sindresorhus/awesome/issues/1138
+1118,broken link in contributing.md,closed,[],2017-10-30T23:59:47Z,lgg,"https://github.com/sindresorhus/awesome/blob/master/contributing.md
+
+>Here is a write up on how to change a Pull Request, and the different ways you can do that.
+
+`https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md`
+is broken, 404",https://github.com/sindresorhus/awesome/issues/1118
+1109,Alphabatize,closed,[],2017-10-25T19:17:58Z,Mrashes,"Hey all,
+
+I was looking through the readme and find it kind of sprawling.  Could I contribute by alphabetizing the list to make it easier to read?
+
+-Max",https://github.com/sindresorhus/awesome/issues/1109
+1104,Awesome comments list,closed,['list request'],2017-10-23T02:26:53Z,dimaqq,"I'd love to see a reference for awesome comments.
+Project-/module-/file-/class-/function-level, doesn't matter what language.
+
+Basically whenever I gotta write or improve an X level comment, I'd like to come here and see good examples.",https://github.com/sindresorhus/awesome/issues/1104
+1101,Awesome mentioned in a science journal,closed,[],2017-10-19T13:32:15Z,sindresorhus,"Leaving it here in case anyone is interested in reading it:
+
+### [The appropriation of GitHub for curation](https://peerj.com/articles/cs-134.pdf)
+
+> GitHub is a widely used online collaborative software development environment. In this paper, we describe curation projects as a new category of GitHub project that collects, evaluates, and preserves resources for software developers.
+
+> We investigate:
+> 1. what motivates software developers to curate resources;
+> 2. why curation has occurred on GitHub;
+> 3. how curated resources are used by software developers; and
+> 4. how the GitHub platform could better support these practices.
+
+> We conduct in-depth interviews with 16 software developers, each of whom hosts curation projects on GitHub. Our results suggest that the motivators that inspire software developers to curate resources on GitHub are similar to those that motivate them to participate in the development of open source projects. Convenient tools (e.g., Markdown syntax and Git version control system) and the opportunity to address professional needs of a large number of peers attract developers to engage in curation projects on GitHub. Benefits of curating on GitHub include learning opportunities, support for development work, and professional interaction. However, curation is limited by GitHub’s document structure, format, and a lack of key features, such as search. In light of this, we propose design possibilities to encourage and improve appropriations of GitHub for curation.
+
+---
+
+Feel free to discuss it below if desired.
+",https://github.com/sindresorhus/awesome/issues/1101
+1088,Awesome Hacking,closed,[],2017-10-10T17:05:50Z,Chan9390,"Hey @sindresorhus ,
+
+I wanted to include [**Awesome Hacking**](https://github.com/Hack-with-Github/Awesome-Hacking) repository under *Security* category, but there already exists another repository named *Hacking*.
+
+Any idea on how to add the repo to the list ?",https://github.com/sindresorhus/awesome/issues/1088
+1072,Help wanted adding a list,closed,[],2017-09-29T20:32:39Z,rivermont,"I would like to add the [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) list, but have a couple problems.
+
+* It's not mine. Therefore I can't edit things like GitHub topics.
+* Incorrect formatting. Awesome-Hacking does not conform to most of the guidelines required to be on *this* list, but I don't feel comfortable redesigning their entire list just to have it here.
+* List of lists. Are lists of other lists of actual things accepted here? Can't really tell.
+
+Thanks!",https://github.com/sindresorhus/awesome/issues/1072
+1065,[question] Add travis CI to verify links in readme.md on PR,closed,[],2017-09-24T17:31:50Z,brgnepal,"Hi @sindresorhus ,
+
+It would be great if we setup Travis CI to quickly verify the links at least. I have read the issue #683 and found quite lot of tasks to be done there . Setting CI is very quick and do most of important work of verifying links.
+
+Let me know WDYT about it? Happy to send PR for it. ",https://github.com/sindresorhus/awesome/issues/1065
+1063,Policy on replacing a link?,open,[],2017-09-23T15:42:43Z,vmbrasseur,"The Speaking entry currently points to [matteofigus' repo](https://github.com/matteofigus/awesome-speaking), but the [Public_Speaking repo](https://github.com/vmbrasseur/Public_Speaking) is more comprehensive (and in fact includes the matteofigus one) and also comes with a community for providing assistance.
+
+Is there a policy about replacing a link? I don't see one in contributing.md, but perhaps it's elsewhere?",https://github.com/sindresorhus/awesome/issues/1063
+1057,Add Apps for Live Streaming,closed,[],2017-09-20T17:36:27Z,m-garanin,"1) OBS (free, open source): obsproject.com
+2) JustBroadcaster : www.justbroadcaster.com ",https://github.com/sindresorhus/awesome/issues/1057
+1051,"Add Awesome Mac, 1.4w+ Star",closed,[],2017-09-19T04:15:23Z,jaywcjlove,"> [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) 1.4w+ Star
+
+This repo is a collection of awesome Mac applications and tools for developers and designers.",https://github.com/sindresorhus/awesome/issues/1051
+1048,Mentioned in Awesome badge/shield,closed,[],2017-09-17T09:20:19Z,jerone,"I love awesome lists and I recently noticed that one of my projects was mentioned in an Awesome list. To promote Awesome I looked for a badge to show that I'm proud to be mentioned. The only [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg) is for lists. I'm looking for a badge for being mentioned in a list.
+
+Looking at [Shields.io](http://shields.io/) there wasn't such a thing, but the available API made the following possible:
+
+![mentioned in awesome](https://img.shields.io/badge/-mentioned_in_awesome-CCA6C4.svg?colorA=CCA6C4&colorB=261120&logoWidth=20&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BICAgIDxwYXRoIGZpbGw9IiMyNjExMjAiIGQ9Ik0xOS4xNCA0LjVMMTQuMjMgMGwtLjY5Ljc1IDQuMDkgMy43NUgxLjUxTDUuNi43NSA0LjkxIDAgMCA0LjV2Mi45N0MwIDguODEgMS4yOSA5LjkgMi44OCA5LjloMy4wM2MxLjU5IDAgMi44OC0xLjA5IDIuODgtMi40M1Y1LjUyaDEuNTd2MS45NWMwIDEuMzQgMS4yOSAyLjQzIDIuODggMi40M2gzLjAzYzEuNTkgMCAyLjg4LTEuMDkgMi44OC0yLjQzbC0uMDEtMi45N3oiLz48L3N2Zz4%3D)
+```
+https://img.shields.io/badge/-mentioned_in_awesome-CCA6C4.svg?colorA=CCA6C4&colorB=261120&logoWidth=20&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BICAgIDxwYXRoIGZpbGw9IiMyNjExMjAiIGQ9Ik0xOS4xNCA0LjVMMTQuMjMgMGwtLjY5Ljc1IDQuMDkgMy43NUgxLjUxTDUuNi43NSA0LjkxIDAgMCA0LjV2Mi45N0MwIDguODEgMS4yOSA5LjkgMi44OCA5LjloMy4wM2MxLjU5IDAgMi44OC0xLjA5IDIuODgtMi40M1Y1LjUyaDEuNTd2MS45NWMwIDEuMzQgMS4yOSAyLjQzIDIuODggMi40M2gzLjAzYzEuNTkgMCAyLjg4LTEuMDkgMi44OC0yLjQzbC0uMDEtMi45N3oiLz48L3N2Zz4%3D
+```
+
+What you think about this idea, or is such a thing already possible...
+
+Maybe a cooperation with Shields.io?",https://github.com/sindresorhus/awesome/issues/1048
+1040,Localized Content,closed,[],2017-09-01T05:45:51Z,iamchathu,"In [awesome-jwt](https://github.com/iamchathu/awesome-jwt) list, there is an issue about adding localized content.
+
+https://github.com/iamchathu/awesome-jwt/issues/2
+
+What will be the better way? Create another readme-ru-.md may be?
+
+",https://github.com/sindresorhus/awesome/issues/1040
+1036,Add tips on README,closed,[],2017-08-28T10:11:01Z,sotayamashita,"For example, I use awesome_bot to test whether links are valid or not. [travis.yml](https://github.com/sotayamashita/awesome-css/blob/master/.travis.yml). 
+
+What do you think?",https://github.com/sindresorhus/awesome/issues/1036
+1035,Help wanted - Awesome CSS,closed,[],2017-08-28T10:08:15Z,sotayamashita,"- https://github.com/sotayamashita/awesome-css
+
+Recently,  I do not have time to maintain. It has over 1.1k stars so I would like to keep up to dates for everyone who want to see the awesome list. 
+
+Thanks :bow:",https://github.com/sindresorhus/awesome/issues/1035
+1031,Sort the Programming Languages section,closed,[],2017-08-22T06:53:53Z,pravic,Wouldn't it be better?,https://github.com/sindresorhus/awesome/issues/1031
+1026,Best section to add Shopping cart,closed,[],2017-08-17T20:10:35Z,hosein2398,"Guys I made a repo , [Here](https://github.com/hosein2398/awesome-shopping-cart) it is , and I'm trying to make it better.
+I will fork this repo to add my link to that and I was wondering where is best section to add this, [business](https://github.com/sindresorhus/awesome#business) or [miscellaneous](https://github.com/sindresorhus/awesome#miscellaneous) ?
+And I was also wondering  that do you guys think  `Shopping carts ` is  a good name for that or `e-Commerce platforms` is better?",https://github.com/sindresorhus/awesome/issues/1026
+1008,Why are related lists not in Security section?,closed,[],2017-07-16T09:42:06Z,fsacer,"Why are are not related lists of some of related lists added in Security section. To find awesome stuff you have to browse through related sections of awesome lists. Why are those lists not added at top level of security section or maybe there could be a subsection for related lists that would make it easier to search with tools like [Awesome search](https://awesomelists.top). This is probably a problem with other awesomelists too. Examples of such lists include: https://github.com/onlurking/awesome-infosec, https://github.com/coreb1t/awesome-pentest-cheat-sheets, https://github.com/Cugu/awesome-forensics, https://github.com/enaqx/awesome-pentest and many more.
+
+Maybe there could be a common format for related lists and those would get automattically included in a subsection maybe. But that is probably no-go if you want those lists curated, but I think something should be done to include more of these lists because there is vast amounts of those which are in related sections and are great but are not in the top list. ",https://github.com/sindresorhus/awesome/issues/1008
+1006,Templates for hosting awesome pages in gh-pages?,closed,[],2017-07-14T16:38:38Z,aschrijver,"Due to the amount of awesome pages around I can't google on templates to create a nice `gh-pages` version of the awesome repo, like React Native has: http://www.awesome-react-native.com
+
+Are any of these around? Not sure about the license of the RN one..
+
+If they exist is would be nice if they were mentioned in 'Creating a list' section, or somewhere accessible from the readme.",https://github.com/sindresorhus/awesome/issues/1006
+1005,Not Awesome ES6 Classes,closed,[],2017-07-14T08:15:39Z,infinnie,I suggest https://github.com/joshburgess/not-awesome-es6-classes be included as well.,https://github.com/sindresorhus/awesome/issues/1005
+1003,Help Wanted - Awesome Infosec,closed,[],2017-07-12T16:03:16Z,generalleger,"I wasn't sure where else to post this - I recently put online an **awesome** list of free cybersecurity resources.  https://github.com/keitersecurity/awesome-infosec
+
+I put up the repo, but since I am kinda obscure on Github, I haven't gotten a lot of the benefit of the 30-day maturation period. So, I figured I would post here to see if anyone had feedback for me.
+
+One thing I know I need to do is add the awesome badge, but I am waiting to do that until I know I am reasonably sure it will pass the **awesome** pull request guidelines.  Thanks!
+
+",https://github.com/sindresorhus/awesome/issues/1003
+979,inclusion of ORM's in the list,closed,[],2017-06-02T08:11:28Z,S2606,"cant we add list of orm's like sequelizer, sqlalchemy(and not in databases), room(for android) for different languages?",https://github.com/sindresorhus/awesome/issues/979
+977,Where's Ada?,closed,[],2017-05-29T22:46:16Z,Lucretia,Ada 2012 should be in this list. It's awesome! 👍 :),https://github.com/sindresorhus/awesome/issues/977
+975,"awesome-js site, analogous to awesome-ruby.com?",closed,[],2017-05-28T18:22:13Z,jm3,"Hi, this is a bit off-topic, but:
+
+has anyone made something like `awesome-javascript.com` or the like, the way that [awesome-ruby.com](http://awesome-ruby.com/) puts an easier to navigate front-end on the [awesome-ruby repo](https://github.com/markets/awesome-ruby)?",https://github.com/sindresorhus/awesome/issues/975
+961,Question: Descriptions,closed,[],2017-05-16T17:30:42Z,legodude17,Should the all the items in places like `Platforms` and `Languages` have descriptions?,https://github.com/sindresorhus/awesome/issues/961
+958,"Forking courtesy call, close after reading.",closed,[],2017-05-11T13:11:45Z,ghost,"Hi, I'm in the process of creating a similar project to yours but I have a few different priorities (creating open, machine-readable data and eventually ascending to P2P heaven). For this reason I'm forking your project and this is my courtesy call.
+
+https://gitlab.com/willemmali/awesome-awesome
+
+I wish you the best of luck with your project. I hope we might be able to consolidate our efforts in the future, or coexist peacefully.",https://github.com/sindresorhus/awesome/issues/958
+937,My list,closed,[],2017-04-18T07:04:13Z,Riajyuu,"Inspired by [Awesome Windows](https://github.com/Awesome-Windows/Awesome), I create [Windows apps that amaze us](https://github.com/EMLVIRUS/Amazing-Windows-Apps).
+Please do check it out",https://github.com/sindresorhus/awesome/issues/937
+929,chinese version?,closed,[],2017-04-03T16:12:26Z,deyuhua,Is there chinese version? may i translate this list into chinese?,https://github.com/sindresorhus/awesome/issues/929
+928,Let's add description to entries,closed,"['enhancement', 'help wanted']",2017-04-01T06:45:48Z,sindresorhus,"I could use some help adding descriptions to entries in this list. The descriptions should be as succinct as possible. Short, but descriptive. They should be about the project/theme, **NOT** the list itself.
+
+# If you decide to do a PR, please do at least 10 descriptions.
+
+## Correct
+
+```
+- [AVA](…) - Test runner.
+```
+
+## Not correct
+
+```
+- [AVA](…) - Full featured test runner with magic, unicorns, and many other things.
+```
+
+## Not correct
+
+```
+- [AVA](…) - Resources for AVA.
+```
+
+## Not correct
+
+```
+- [AVA](…) - Awesome resources.
+```
+
+## Not correct
+
+```
+- [AVA](…) - List of testing resources.
+```",https://github.com/sindresorhus/awesome/issues/928
+927,List maintainer looking for help,closed,[],2017-04-01T06:29:57Z,sindresorhus,"Post here if you run an Awesome list and need help to maintain it or want to hand it over to someone else. Awesome lists thrive on being well-maintained. If you're not able to do so, consider adding more people.",https://github.com/sindresorhus/awesome/issues/927
+926,List maintainers → Ensure your list is still awesome,closed,[],2017-04-01T05:54:46Z,sindresorhus,"### Ensure your list follows the [latest guidelines](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md)
+
+There has been many changes and improvements to the guidelines in the past year. Please take some time looking over the guidelines and improve your list accordingly.
+
+If you no longer have time to maintain your list, [let me know](https://github.com/sindresorhus/awesome/issues/927) and I can help you find more maintainers.
+
+For example, your list:
+
+- Includes a succinct description of the project/theme at the top of the readme. [(Example)](https://github.com/willempienaar/awesome-quantified-self)
+- Includes a project logo/illustration whenever possible.
+- [More…](https://github.com/sindresorhus/awesome/blob/master/pull_request_template.md)
+
+---
+
+And today I added a new guideline:
+
+Awesome lists should have the following [GitHub topics](https://help.github.com/articles/about-topics) set:
+- `awesome-list`
+- `awesome`
+- `list`
+
+I encourage you to add more relevant topics.
+
+---
+
+If you're a user reading this, consider helping list maintainers out by submitting a pull request with improvements.",https://github.com/sindresorhus/awesome/issues/926
+922,Pi Dashboard,closed,[],2017-03-28T13:36:08Z,mybesttools,"Hi guys,
+My only issue is, my project is not on the list ;-) ... yet.
+You might find it interesting enough to list. 
+I'm quite content with the result, if I may say so.
+Check it [out](https://github.com/mikesmth/pi-dashboard)!
+
+Greetings,
+
+Mike
+",https://github.com/sindresorhus/awesome/issues/922
+908,New suggestion for requirement for awesome list - github topic tags,closed,[],2017-03-14T14:51:42Z,pokeball99,"at the core you could just have ""awesome"" as the only requirement but you could require them to add other topic tags relavent to their list",https://github.com/sindresorhus/awesome/issues/908
+891,This is awesome,closed,[],2017-02-22T17:34:22Z,elquimista,,https://github.com/sindresorhus/awesome/issues/891
+873,Meta list for programming libraries,closed,[],2017-01-26T14:15:13Z,brillout,"I find awesome lists particularly useful for finding libraries and I don't use the learning material part.
+
+Making a meta list focusing on libraries and containing only awesome lists that curate libraries has following advantages
+
+ - Better overview. ~4 times less lists.
+ - Higher quality requirements. Many lists focus is on learning material and neglect the library part. These are not included in the meta list for programming libraries.
+ - Improved UI. Since most libraries are hosted on GitHub, a tailored UI can be built, e.g. something like http://devarchy.com/react-components.
+
+The obvious drawback is having two similar meta lists which may lead to confusion.
+
+Beyond that the goal is to increase awareness that awesome lists are a good way to find libraries.
+Most programmers I meet don't know about awesome lists so there is likely lot's of potential.
+
+I've started creating such [programming library meta list](https://github.com/brillout/libraries/blob/ef94c565367b43fde69f8c40c9e6c2302fecab3c/README.md).",https://github.com/sindresorhus/awesome/issues/873
+872,Media > GIF link broken,closed,[],2017-01-22T19:38:21Z,joonaskaskisola,,https://github.com/sindresorhus/awesome/issues/872
+850,Broken links on http://awesomeawesome.party/,closed,[],2016-12-23T18:05:03Z,nighto,"http://awesomeawesome.party/awesome.md , for instance, is 404.",https://github.com/sindresorhus/awesome/issues/850
+835,Awesome logo and badge?,closed,[],2016-12-03T14:40:22Z,m1guelpf,Sorry,https://github.com/sindresorhus/awesome/issues/835
+824,No Licence file,closed,[],2016-11-17T12:47:05Z,vmullet,"Hello,
+Your project is awesome :) I checked it and didn't find the licence file for the public domain.",https://github.com/sindresorhus/awesome/issues/824
+801,awsome pokemon should go under games category?,closed,[],2016-10-18T17:12:40Z,pokeball99,"just wondering if this should be changed or if there is a proper reason why its under misc. and not games
+",https://github.com/sindresorhus/awesome/issues/801
+784,How to grow Awesome?,closed,"['help wanted', 'question']",2016-10-06T07:31:00Z,sindresorhus,"The Awesome list concept has turned out to be very popular, with a great community ❤️ around it!
+
+**I'm wondering what else we could do with the Awesome brand?** Would there be any interest in an Awesome meetup? Maybe a blog highlighting awesome things? Email newsletter? Twitter account? Would you follow it if so? Printed awesome socks? Because why not.
+
+I'm open for ideas. No idea is too weird or crazy.
+## 
+
+Or maybe there's no need to do anything more. That's a valid comment too.
+",https://github.com/sindresorhus/awesome/issues/784
+772,PR for awesome-flow,closed,[],2016-09-26T00:06:06Z,amilajack,"Would a PR for adding [awesome-flow](https://github.com/dustinspecker/awesome-flow) be welcome?
+",https://github.com/sindresorhus/awesome/issues/772
+767,Front-end for Awesome lists,closed,[],2016-09-18T12:08:07Z,brillout,"I've built a frontend for a list of react components: [devarchy.com/react-components](http://devarchy.com/react-components). (The list on Github: [github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components).)
+
+It is open source ([github.com/brillout/devarchy](https://github.com/brillout/devarchy)). Maybe it could be useful for other lists as well.
+
+Especially for lists with many GitHub links since the frontend is largely based on information provided by GitHub (like last commit date, repository creation date, number of stars, readme, etc.).
+
+The main focus of the frontend:
+- Easier management of addition requests. (No PR conflicts, readme one click away.)
+- The community can vote on addition requests.
+- Better interface for the user. (The list is sorted by GitHub stars and repository creation date. Readme and last commit date one click away.)
+",https://github.com/sindresorhus/awesome/issues/767
+757,Link to awesome-postgres,closed,[],2016-09-06T10:56:27Z,lkmill,"hey, just found an awesome list (https://github.com/dhamaniasad/awesome-postgres) that is not listed here...
+",https://github.com/sindresorhus/awesome/issues/757
+752,Please add Awesome Linux Software,closed,[],2016-08-25T11:48:40Z,luong-komorebi,"I made this [here](https://github.com/VoLuong/Awesome-Linux-Software) . I hope it will be put under Linux section. 
+Thank you
+",https://github.com/sindresorhus/awesome/issues/752
+748,Responsibility of the maintainer to respond in a timely fashion..,open,[],2016-08-20T10:59:04Z,aschrijver,"Hi,
+
+I just created a comment on another issue https://github.com/sindresorhus/awesome/issues/718#issuecomment-241192281 stating frustration on awesome lists that have a large backlog of PR's that are waiting for weeks or months to be merged.
+
+I would like to propose a change to the Code of Conduct and add something along the following lines:
+- Potential awesome maintainers should be aware/warned that maintenance can be a time-consuming business, and they should be willing to spend it (within the boundaries of reason, of course).
+- Awesome lists have gained traction, not only in open-source community but in broader IT world. It is used more and more as an authoritative source (well, that sounds a bit strange, given the laissez-fair approach it started out with, but still) in software selection and to proclaim new products, to raise awareness.
+- Especially that last point leads IMHO leads to a new responsibility for the maintainer, namely to merge new entries within a reasonable timespan, or - if that is not possible for some reason - ensure there is another maintainer that can do the merging.
+
+WDYT?
+
+(PS And here I would like to state that this is not personal criticism on any awesome maintainer on the block, you are awesome together with your lists! I fully understand busy schedules and that time is scarce.) 
+",https://github.com/sindresorhus/awesome/issues/748
+736,Awesome code analysis,closed,[],2016-08-09T18:34:43Z,mr-karan,"> coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+> coala has a set of official bears (plugins) for several languages, including popular languages such as C/C++, Python, JavaScript, CSS, Java and many more, in addition to some generic language independent algorithms.
+
+For more info: https://github.com/coala-analyzer/coala
+",https://github.com/sindresorhus/awesome/issues/736
+732,"More non-{tech,science} awesome lists please!",open,['list request'],2016-08-05T21:03:56Z,sindresorhus,"There are so many interesting topics in this world. Let's not limit ourselves to just tech and science!
+
+I think the only non-{tech,science} list we have here is the [Economics](https://github.com/antontarasenko/awesome-economics) list.
+
+Examples:
+- [Life hacks](https://en.wikipedia.org/wiki/Life_hack)
+- Skateboarding
+- [Yarn bombing](https://en.wikipedia.org/wiki/Yarn_bombing)
+- Pony grooming
+- Cooking
+- ...
+
+**Please share more ideas!**
+## 
+
+[Click here to get started creating a list.](https://github.com/sindresorhus/awesome/blob/master/create-list.md)
+",https://github.com/sindresorhus/awesome/issues/732
+731,Proposal for adding TastyToast,closed,[],2016-08-05T14:00:45Z,yadav-rahul,"[TastyToast](https://github.com/yadav-rahul/TastyToast)  is an Android Library which helps an user to get rid of their native Android Toast.
+
+TastyToast helps the user by characterising the type of Toast into five main category which are success, danger, warning, info and default.
+
+For each default category, it not only changes background and text colour but also adds tasty Custom View on the left side of Toast.
+",https://github.com/sindresorhus/awesome/issues/731
+718,Curated list maintained by the community,closed,[],2016-07-17T15:53:16Z,brillout,"While curating a list of react components/libraries I realized that this is a lot of work for a single person. They are around 10 000 of them. Even for a small group of person this is still a lot of work.
+
+I'm writing a prototype to let the community decide if a resource should be included to the list or not. 
+
+A problem I can see with that is the quality of curation to be lower.
+Although, if for example 5 persons say that a resource is useful then it could/should be a reason enough to include this resource to the curated list.
+
+Thoughts?
+",https://github.com/sindresorhus/awesome/issues/718
+717,why there is no ext.js,closed,[],2016-07-17T14:33:36Z,madneal,"Ext.js a also a famous front-end framework. I think the content in the front-end is not enough.
+",https://github.com/sindresorhus/awesome/issues/717
+714,Add an Awesome Redux List,closed,[],2016-07-10T15:19:05Z,brillout,"I have a Redux List https://github.com/brillout/awesome-redux.
+There is also https://github.com/xgrommx/awesome-redux.
+I just recently made mine public and xgrommx's list is more ""popular"".
+In that sense it is xgrommx`'s one that should be on the awesome list.
+
+@xgrommx
+
+Are you interested to be on the awesome list?
+
+I'd be up for collaboration, if you are interested.
+But I would be more strict about what resources should be on the list.
+I consider many low quality / not useful enough.
+",https://github.com/sindresorhus/awesome/issues/714
+709,Provide a TravisCI script that automatically adds/removes 'NEW' labels to awesome entries ,closed,[],2016-07-09T13:33:46Z,aschrijver,"Awesome project is awesome, but a big drawback to me is that it is hard to see which entries have been added since the last time I checked. So I often find myself checking the commits, and even the code changes if the commit message was unclear.
+
+Just like the `awesome` badge there should be a script that marks entries with a consistent 'NEW' label when they are committed and subsequently checks whether other 'NEW' labels in the list still deserve that label. There could be a configurable time an entry is considered new (e.g. 30 days by default).
+",https://github.com/sindresorhus/awesome/issues/709
+703,A single page application for awesome lists,closed,[],2016-06-30T22:47:56Z,ankitgyawali,"Thank you @sindresorhus and the community for creating such a useful resource. Last week I decided to create an interface for awesome lists by parsing all the lists using python and displaying them using angularJS as a SPA. 
+
+The repository for the project and link to the interface can be found here: https://github.com/ankitgyawali/awesome-interface
+
+I was able to parse most of the awesome lists as they followed the awesome manifesto although the parsers definitely has room for improvement. Now, I wanted to ask you if you had any advice on any changes I could make to this project. I have some ideas on expanding on the project but I thought it would be a good idea to see what you think before dedicating more time on it.
+",https://github.com/sindresorhus/awesome/issues/703
+699,Awesome,closed,[],2016-06-25T01:20:52Z,WaRRioR3pWner,"👍🏻
+",https://github.com/sindresorhus/awesome/issues/699
+693,addition of best practices list,closed,[],2016-06-17T22:56:55Z,jcoady9,"Hello, I have been working on [awesome-best-practices](https://github.com/jcoady9/awesome-best-practices) an awesome list of best practices and style guides for various programming languages and I think it would be a good addition to your list. I was wondering what the admin thought before I make a pull request. Thank you for your time!
+",https://github.com/sindresorhus/awesome/issues/693
+687,Create page(s) for this awesome awesome repo on the zeef.com,closed,[],2016-06-13T15:33:01Z,n2i,"ZEEF: Find information though people
+
+Is it a good idea to create new page(s) for this repo on the [zeef.com](https://zeef.com)?
+- It may be easier to browse.
+- More interactive/catalogued.
+",https://github.com/sindresorhus/awesome/issues/687
+685,Awesome biohacking,closed,[],2016-06-09T16:11:49Z,htrgouvea,"Hi,
+I would suggest this repository to the list:
+https://github.com/HeitorG/awesome-biohacking/
+",https://github.com/sindresorhus/awesome/issues/685
+683,Review bot?,closed,[],2016-06-09T07:21:24Z,egeerardyn,"After seeing https://github.com/sindresorhus/awesome/pull/682#issuecomment-224618088 (and quite a bit of similar PRs ), I think the only solution we have left to reduce people from inconsiderately submitting a PR, is by automating a part of the review process.
+
+In principle, it should not be hard to write a small bot that runs e.g. on Travis CI to check:
+- that all commit titles in a PR are not just ""Update readme.md"",
+- that the repository is added at the bottom of a category, 
+- that a new repository:
+  - is e.g. older than 2 weeks,
+  - contains the awesome badge,
+  - contains a ""CONTRIBUTING.md"", and
+  - contains a ""LICENSE.md"" or similar file.
+
+Those are all mechanic checks that such a bot could carry out instead of a human being. Probably we can make this bot even react to the GitHub PR with an error message and even close the PR: personally, I would be quite ruthless when it comes to handling such inconsiderate PRs: if it is too hard to read some instructions, I am pretty sure it is too hard to maintain an awesome list.
+
+The danger of this idea are false positives: people that are of good faith who get their PR closed because of this.
+",https://github.com/sindresorhus/awesome/issues/683
+677,proposal for adding awesome-nlp to the list,closed,[],2016-06-01T18:07:41Z,keon,"I've searched through the awesome list (which was awesome) and found [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) but its content is more of Language Modelling rather than Natural Language Processing.
+
+So I've been building this new awesome list  called [awesome-nlp](https://github.com/keonkim/awesome-nlp) and this only contains lists of Natural Language Processing, not language modelling.
+I wanted to add this list to the sindresorhus/awesome to gain more accessibility.
+
+So I wanted to hear admin's thoughts before I make a pull request.
+Of course, I am going to adjust and refine to adhere the rules before I make the request.
+",https://github.com/sindresorhus/awesome/issues/677
+671,Awesome Windows Repository,closed,[],2016-05-29T13:01:07Z,rahulkapoor90,"when i started awesome windows repository i didn't knew how to write down the list properly but still i managed to gather all the resources and made a nice awesome windows repository and i did send a pull request here to add it here but instead it was closed because of less stars by sindresorhus.
+
+but soon after that a guy with username [https://github.com/RiseLedger](RiseLedger) copied the whole thing i wrote and managed to get more 'stars' than me and you added him.
+
+Is the one who wrote it originally is not entitled to be added here or is it just you can copy someone's else work and get more stars and go on sending pull request? Is this how the whole thing works?
+
+My repository - [https://github.com/rahulkapoor90/awesome-windows](url)
+
+RiseLedger - [https://github.com/RiseLedger/awesome-windows](url)
+
+My pull request is here [https://github.com/sindresorhus/awesome/pull/326](url).
+",https://github.com/sindresorhus/awesome/issues/671
+663,Encryption list,closed,"['help wanted', 'list request']",2016-05-23T20:42:59Z,sobolevn,"Maybe someone is interested in creating and maintaining the `awesome-ecryption` list?
+It might be useful. 
+
+Quick googling and searching github said that's nothing like it: https://github.com/search?utf8=%E2%9C%93&q=awesome+encryption&type=Repositories&ref=searchresults
+",https://github.com/sindresorhus/awesome/issues/663
+661,"Request awesome list ""admins"" to move repos to awesome-lists organization",closed,[],2016-05-19T12:46:26Z,pokeball99,"https://github.com/awesome-lists
+this would be great in case some of the repo owners go MIA or else,someone else could pick it up, it would also just be great to put these in a single account
+@sindresorhus what do you think about this, agree? or maybe the idea needs improvement?
+",https://github.com/sindresorhus/awesome/issues/661
+650,"PR template to ""enforce"" contribution guidelines?",closed,[],2016-05-09T11:25:36Z,egeerardyn,"How about adding a [PR template](https://github.com/blog/2111-issue-and-pull-request-templates) to make the contribution guidelines stand out more and maybe even make it easier to spot lazy PRs?
+
+I was thinking something along the lines of a checklist:
+
+> Added **your URL here**
+> - [ ] I have read and understood the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md).
+> - [ ] This PR (and commit) have a descriptive title.
+> - The list I added
+>   - [ ] is not a duplicate,
+>   - [ ] has been around for a few weeks,
+>   - [ ] only has awesome items with descriptions,
+>   - [ ] contains the awesome badge,
+>   - [ ] has been checked for inconsistent formatting, spelling and grammar,
+>   - [ ] has been added at the bottom of the appropriate category.
+> - [x] I will click on anything, so feel free to close this PR.
+
+I know, this won't stop every halfwit, but, I hope it will reduce the number of dumb PRs by a significant amount.
+",https://github.com/sindresorhus/awesome/issues/650
+643,Getting more done in GitHub with ZenHub,closed,[],2016-05-05T04:41:16Z,jinzaizhichi,"Hola! @jinzaizhichi has created a [ZenHub](http://www.zenhub.io) account for the **sindresorhus** organization. ZenHub is the only project management tool integrated natively in GitHub – created specifically for fast-moving, software-driven teams.
+
+---
+#### How do I use ZenHub?
+
+To get set up with ZenHub, all you have to do is **[download the browser extension](https://www.zenhub.io?utm_source=ZHOnboarding)** and log in with your GitHub account. Once you do, you’ll get access to ZenHub’s complete feature-set immediately.
+#### What can ZenHub do?
+
+ZenHub adds a series of enhancements directly inside the GitHub UI:
+- Real-time, customizable task boards for GitHub issues;
+- Multi-Repository burndown charts, estimates, and velocity tracking based on GitHub Milestones;
+- Personal to-do lists and task prioritization;
+- Time-saving shortcuts – like a quick repo switcher, a “Move issue” button, and much more.
+### [Add ZenHub to GitHub](https://www.zenhub.io?utm_source=ZHOnboarding)
+
+_Still curious? See [more ZenHub features](https://www.zenhub.io/features?utm_source=ZHOnboarding) or read [user reviews](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd/reviews). This issue was written by your friendly ZenHub bot, posted by request from @jinzaizhichi._
+
+![ZenHub Board](https://cloud.githubusercontent.com/assets/8771909/11153956/233ac4a8-89f1-11e5-94b1-1569d3f38b4d.png)
+",https://github.com/sindresorhus/awesome/issues/643
+633,Add a new category - Lists various websites where one can practice coding,closed,[],2016-04-26T04:56:02Z,hkasera,"Hello,
+
+I would like to request for adding a new list to the awesome list. This new list enumerates various websites where one can practice coding.
+
+I created a [repository](https://github.com/hkasera/practice-coding) for the same and then got to know about awesome list. I think it would be great if this list can be a part of it.
+
+Let me know if this is a welcome contribution!
+
+Cheers,
+Harshita Kasera
+",https://github.com/sindresorhus/awesome/issues/633
+628,No longer actively maintained repositories,open,[],2016-04-19T17:07:16Z,chaconnewu,"According to our discussion https://github.com/sindresorhus/awesome/pull/626, I generated a list of not-pushed-in-previous-3-month repositories with date pulling from GitHub API:
+-   [Cordova](https://github.com/busterc/awesome-cordova)
+-   [Dart](https://github.com/yissachar/awesome-dart)
+-   [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+-   [Fortran](https://github.com/rabbiabram/awesome-fortran)
+-   [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+-   [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+-   [Inspiration](https://github.com/NoahBuscher/Inspire)
+-   [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
+-   [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+  -   [Spanish](https://github.com/dav009/awesome-spanish-nlp)
+-   [Spanish](https://github.com/dav009/awesome-spanish-nlp)
+-   [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
+-   [Cryptography](https://github.com/MaciejCzyzewski/retter)
+-   [Dev Env](https://github.com/jondot/awesome-devenv)
+-   [Speaking](https://github.com/matteofigus/awesome-speaking)
+-   [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
+-   [Radio](https://github.com/kyleterry/awesome-radio)
+-   [Open Companies](https://github.com/opencompany/awesome-open-company)
+-   [Services Engineering](https://github.com/mmcgrana/services-engineering)
+-   [Sketch](https://github.com/diessica/awesome-sketch) _(OS X app)_
+-   [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+-   [Answers](https://github.com/stoeffel/awesome-ama-answers)
+-   [Productivity](https://github.com/jyguyomarch/awesome-productivity)
+-   [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
+",https://github.com/sindresorhus/awesome/issues/628
+623,awesome-cpu,closed,[],2016-04-16T15:37:47Z,Unrepentant-Atheist,"https://github.com/larsbrinkhoff/awesome-cpus
+",https://github.com/sindresorhus/awesome/issues/623
+621,awesome-android,closed,[],2016-04-16T03:25:32Z,snowdream,"https://github.com/snowdream/awesome-android
+",https://github.com/sindresorhus/awesome/issues/621
+592,Awesome Birmingham?,closed,[],2016-03-28T18:30:31Z,LimeBlast,"Hi, I wanted to check with you if it would be acceptable to create an Awesome [Birmingham](https://www.wikiwand.com/en/Birmingham) list?
+
+I run a local tech community forum in Birmingham, and feel that this would be a cool little project for the community to get behind - contributing to a list of all the awesome things in Birmingham (attractions, restaurants, companies, areas of natural beauty, etc..).
+
+This is a little outside the other lists you've got here, so before we got started, I wanted to check if such a list would be accepted among your lists.
+
+Thank you.
+",https://github.com/sindresorhus/awesome/issues/592
+569,Tools for enforcing awesome-style?,closed,[],2016-03-10T23:16:17Z,paulirish,"In the [manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) there are a few suggestions and requirements.  For example..
+##### style
+- grammatically correct
+- no typos
+- no markdown errors
+- consistent style (e.g. ""[link](/thing) - Description with a period."")
+##### build
+- table-of-contents generated
+
+---
+
+Have any list maintainers written some scripts to either lint for style issues? Also interested in boring build scripts to automate TOC generation with DocToc, etc.
+",https://github.com/sindresorhus/awesome/issues/569
+556,Receiving support? ,closed,[],2016-03-03T16:46:56Z,Francolpm,"Hi there!
+This isn't a issue but I didn't know where to ask!
+Are you accepting donations or supports? Because I want to give some of money to awesome list, but there is no donate button o something like that.
+I don't trying to spam you, but I want to invite you to beerpay.io, a simple platform to monetize open source projects, like awesome list. 
+
+Thanks for this great work!
+",https://github.com/sindresorhus/awesome/issues/556
+550,Helping sorting the Miscellaneous category,closed,"['enhancement', 'help wanted']",2016-02-27T13:07:20Z,AllThingsSmitty,"As mentioned in https://github.com/sindresorhus/awesome/issues/548#issuecomment-189576619, it will be helpful if we can go through the Miscellaneous section and group resources together to form new categories. A category should have at least 2, preferably 3 items.
+",https://github.com/sindresorhus/awesome/issues/550
+548,Revisit applying alpha sorting of lists,closed,[],2016-02-27T02:27:21Z,AllThingsSmitty,"This project has grown considerably in the last year. Perhaps it's worth revisiting the past suggestion that lists and categories be sorted alphabetically.
+
+Reference: https://github.com/sindresorhus/awesome/issues/112
+",https://github.com/sindresorhus/awesome/issues/548
+544,Can I order pizza here?,closed,[],2016-02-23T20:08:26Z,dikiaap,"Need help with it.
+",https://github.com/sindresorhus/awesome/issues/544
+537,awesome can be used to do?,closed,[],2016-02-17T06:44:12Z,minterjiang,"awesome can be used to do?
+",https://github.com/sindresorhus/awesome/issues/537
+517,A possible duplicate but a different layout,closed,[],2016-02-02T16:25:16Z,lnishan,"Recently I made my list for competitive programming: [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+
+I wasn't aware that there was a repo under a similar name: [hkirat/awesome-competitive-coding](https://github.com/hkirat/awesome-competitive-coding)
+
+First of all, I believe the better term is ""Competitive Programming"". (See [Competitive programming - Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming))  
+Secondly, the layout is vastly different. I listed many more websites and covered different aspects of competitive programming. I cannot really think of a way to cooperate besides adding a link to his list.
+
+More importantly, part of the reasons why I made this list is that there are already several similar lists out there and none of them is complete. (See my [List of lists](https://github.com/lnishan/awesome-competitive-programming#list-of-lists) and [Open courses](https://github.com/lnishan/awesome-competitive-programming#open-courses) section)
+
+What would be a good way to resolve this issue?
+",https://github.com/sindresorhus/awesome/issues/517
+516,Do you think conventional-changelog belongs here?,closed,[],2016-02-01T01:15:56Z,stevemao,"https://github.com/ajoslin/conventional-changelog and the cli https://github.com/stevemao/conventional-changelog-cli
+
+Its a tool to generate a changelog from git metadata. Used by angular and jshint. It can be used for both front-end and back-end development.
+
+If not, does it belong to your other list? Thanks.
+",https://github.com/sindresorhus/awesome/issues/516
+504,Helping reader find most relevant content,open,[],2016-01-25T19:40:20Z,dmitriz,"First of all, let me thank @sindresorhus and everyone else for your titanic efforts to make these lists so awesome, it is greatly appreciated!!!
+
+The problem I'd like to address though, is a challenging task to keep the lists relevant as things can move very fast and projects become deprecated, obsolete, outdated, unmaintained etc. As an example I can mention [the list of AngularJS seed projects](https://github.com/gianarb/awesome-angularjs#seed-projects), many of which are sadly quite old and full of what nowadays considered bad practices.
+
+Showing some of these old projects to a newcomer without proper warning can actually be considered **harmful**, as people can mistakenly learn some bad practices from there without being aware that they are. Especially with AngularJS this feels like a problem with people misjudging the framework based on the outdated information, when modern best practices actually solving many of those old problems. Given the current fast pace of the JavaScript ecosystem and the overwhelming and growing amount of information, this problem will likely only get worse.
+
+On the opposite side, the most modern, recent and relevant projects can **sadly blend and get lost** amidst other older ones, making it hard for the reader, especially beginner, to find them.
+
+So I'd like to suggest to discuss possible ways to mitigate this challenge, and help the reader by adding various meta-data beside the links that would help to decide which links to check first.
+
+I have previously proposed [to timestamp the list entries here](https://github.com/sindresorhus/awesome-nodejs/issues/432) as one possible meta-data that may be easy to automate and @sindresorhus rightfully suggested it belongs here. It is based on the assumption that the resource was considered ""awesome"" at the time when the link was put and the reader would quickly see when that happened.
+
+I think that would really help the reader with the type of resources whose awesomeness might change fast in time. I'm sure the author would not put many of those links now but wants to keep them for historical or whatever reasons. 
+
+It is not a perfect solution and might not be so helpful for other types of resources, where other clues may be needed. However, it is a simple information that would keep things more transparent, and may have different use for different people. Also it would help the maintainers to feel less guilty and less responsible for the content by clearly saying how old it is.
+
+As @sindresorhus [pointed](https://github.com/sindresorhus/awesome-nodejs/issues/432#issuecomment-172311291), this metric may be flawed e.g. for `npm` packages, where other information could be useful such as:
+- the number of downloads;
+- the number of stars;
+- the number of open issues;
+- the date of the last commit;
+- the size of the package with all dependencies.
+
+Especially the package size with dependencies and how long it takes to download is what I found very hard to estimate in advance.
+
+Of course, any meta-data generation should be fully automatic and should not add any burden to the author. If anything more can be done to save the author's time -- the better!
+",https://github.com/sindresorhus/awesome/issues/504
+501,API to search / fetch awesome data,closed,[],2016-01-23T20:32:44Z,millaisnick,"I was wondering if someone is already working on an API to be able to fetch the different awesome lists. Basically I am thinking of a simple script that will wget or curl the markdown and parse, pick your best heuristic, the lists to retrieve something like:
+
+```
+$  awesome awesome
+```
+
+```
+{
+  name: awesome-nodejs,
+  url: https://github.com/sindresorhus/awesome-nodejs
+  ...
+}
+```
+
+You should be able to get the items from any awesome list if you indicate either a name or url.
+",https://github.com/sindresorhus/awesome/issues/501
+479,Non-english lists,closed,[],2016-01-15T19:36:10Z,davisonio,"How about adding lists for awesome lists which aren't in english?
+
+We could create files called `readme-de.md` `readme-fr.md` etc. For example there's lots of awesome lists in Chinese from [here](https://github.com/justjavac/awesome-awesomeness-zh_CN).
+
+Obviously this may take some work ensuring that lists are suitable and follow the awesome manifesto, so we'd need some help from those who are able to understand those languages and check for a license, contributing guidelines etc. 
+",https://github.com/sindresorhus/awesome/issues/479
+477,Mongo?,closed,[],2016-01-13T09:39:37Z,22Viig,"I just came for the first time on this repo, I searched for Mongo and ... surprise, not even a single link about Mongodb? why?
+",https://github.com/sindresorhus/awesome/issues/477
+470,found a bunch of repos that are maybe not in here,closed,[],2016-01-07T13:23:08Z,pokeball99,"https://github.com/search?q=d7305f38d29fed78fa85652e3a63e154dd8e8829&ref=searchresults&type=Code&utf8=%E2%9C%93
+this all github ¨awesome¨ repos that can be found with the awesome badge(~500), just putting this here so someone can go though them
+",https://github.com/sindresorhus/awesome/issues/470
+444,Meteor + TheIntern.io - Automate Testing Link,closed,[],2015-12-11T05:33:37Z,harpreetkhalsagtbit,"Hi
+
+I have developed a tutorial for Automate Functional Testing of **Meteor** with **TheIntern.io**. 
+
+**Environment Setup**
+https://gist.github.com/harpreetkhalsagtbit/ffb4cea37fcc02efa250
+
+**Example Tutorial - Meteor + TheIntern**
+https://gist.github.com/harpreetkhalsagtbit/55022792c1b6ab4367c4
+
+Please have a look at these link and let me know if you think these links are usefull. How can I contribute this to your repo?
+",https://github.com/sindresorhus/awesome/issues/444
+435,make each category listed in alpabetacale order,closed,[],2015-12-02T13:28:45Z,pokeball99,"just to make it a little bit more organised
+",https://github.com/sindresorhus/awesome/issues/435
+427,Website for searching in awesome.,closed,[],2015-11-26T17:34:26Z,lockys,"Hi, dear all
+First, thank all authors of awesome list, it makes the world better.
+
+I don't know that if there are similar projects for these.
+I am trying to exact awesome lists into JSON in my leisure time(still working on it) and build a simple website for searching awesome. Hope it's a helpful thing :p
+
+~~I am looking forward to someone to PR any awesome list in JSON format like this because the format of awesome lists are different so that it's not so easy to write a general program to extract them into JSON I think.~~
+
+It's not an issue actually and can be closed undoubtedly. 
+if you get interested, below is the repos:
+https://github.com/lockys/awesome-search
+
+the JSON repo:
+https://github.com/lockys/awesome.json
+
+site:
+https://awesomelists.top
+
+tks.
+",https://github.com/sindresorhus/awesome/issues/427
+424,For Girls.,closed,[],2015-11-22T23:11:45Z,cristianoliveira,"A list of awesome inclusive events/projects/initiatives for women in the tech area. :rose: :computer: :gift_heart:
+https://github.com/cristianoliveira/awesome4girls
+",https://github.com/sindresorhus/awesome/issues/424
+418,Create a sub-category in vim for vim configration,closed,[],2015-11-18T12:18:58Z,amitkverma,"best config list so far in my known is https://github.com/amix/vimrc
+",https://github.com/sindresorhus/awesome/issues/418
+414,Maintainer wanted for COBOL list,closed,[],2015-11-12T11:20:33Z,sindresorhus,"The current maintainer @dshimy doesn't seem active. Would be happy to switch the link to an actively maintained fork if anyone is interested.
+
+https://github.com/dshimy/awesome-cobol
+",https://github.com/sindresorhus/awesome/issues/414
+410,Website?,closed,[],2015-11-10T04:38:14Z,keon,"i can make one
+",https://github.com/sindresorhus/awesome/issues/410
+409,"Starting my awesome list, DevOps",closed,[],2015-11-09T13:44:13Z,joubertredrat,"On this week I will finish this
+
+https://github.com/joubertredrat/awesome-devops
+
+Is possible to add in your list when I finish?
+",https://github.com/sindresorhus/awesome/issues/409
+365,The awesome-c that you have listed here is very far behind mine,closed,[],2015-10-21T05:09:56Z,kozross,"The awesome-c link you guys have is _severely_ behind my mainline, which is not Github-hosted. Unless you have a reason to link to an inferior version purely because it's on GitHub, I would ask that [mine](https://notabug.org/koz.ross/awesome-c) be linked to, as it contains more up-to-date resources and is better-organized. Furthemore, it seems the maintainer is making no effort to keep up with my changes or even introduce new material, which is basically just sending users down a bad alleyway.
+",https://github.com/sindresorhus/awesome/issues/365
+360,Include Awesome AWS in the list,closed,[],2015-10-18T17:49:52Z,swaroopch,"https://github.com/donnemartin/awesome-aws
+",https://github.com/sindresorhus/awesome/issues/360
+349,NoSQL,closed,"['help wanted', 'list request']",2015-10-09T21:06:29Z,ffffranklin,"Maybe it's too-early-in-the-game for this but it would be ~~nice~~ **awesome** to see a list on NoSQL.  Data structuring best practices, tutorials, talks and articles.  Some links I've come across in the past:
+- https://www.firebase.com/docs/web/guide/structuring-data.html
+- http://blog.nahurst.com/visual-guide-to-nosql-systems
+- http://docs.mongodb.org/manual/core/data-modeling-introduction/
+- https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+",https://github.com/sindresorhus/awesome/issues/349
+340,Add awesome-gamedev,closed,[],2015-09-30T14:25:03Z,pizzamaker,"https://notabug.org/koz.ross/awesome-gamedev
+
+Awesome-gamedev is much larger than the current one under Game Development.
+",https://github.com/sindresorhus/awesome/issues/340
+323,CoffeeScript,closed,[],2015-09-17T11:54:09Z,faustinoaq,"I'm sorry, I didn't read the guidelines. [My mistake](https://github.com/sindresorhus/awesome/pull/322)
+I will work in an awesome-coffeescript after read the guidelines
+I like CoffeeScript and Python syntax, but What do you think about CoffeeScript today?
+Is TypeScript better than CoffeeScript?
+Did we need CoffeeScript?,
+It's just Javascript
+",https://github.com/sindresorhus/awesome/issues/323
+304,What about Alphabetization?,closed,[],2015-09-05T11:44:00Z,ruben-ar14-mons,"I´ve seen that at many other projects and i ask many other project maintainers, if they would do it. It helps at points like search-ability, clarity and structure. What do you think? I could do that
+I mean only the chapters should be alphabetized, the table of contents should not. Or do the follow a special order?
+",https://github.com/sindresorhus/awesome/issues/304
+298,Badge height,closed,[],2015-08-28T10:27:48Z,vasili111,"Can you please change Awesome badge height so that it will have same height as other badges. For example, in [awesome-AutoHotkey list](https://github.com/ahkscript/awesome-AutoHotkey) awesome badge has different height in comparison to other badges. I think it will look more nice if all badges will have same height.
+",https://github.com/sindresorhus/awesome/issues/298
+291,Static Site Generator,closed,['list request'],2015-08-25T13:07:05Z,akhyarrh,"Currently, there's no awesome list contain a resource for static site (hosting, comment system, etc). I sometime need to do a little digging to find something I need. So awesome list contain a resource related to static site would be awesome.
+
+We don't need list for static site generator, but a resource for it. Netlify already have awesome list [here](http://www.staticgen.com/) ([source](https://github.com/netlify/staticgen)).
+
+Some list are exist:
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - last commit 27 Apr
+- [planetruby/awesome-staticgen](https://github.com/planetruby/awesome-staticgen) - last commit 2 Jul
+- [rogeriopradoj/awesome-static-site-generator](https://github.com/rogeriopradoj/awesome-static-site-generator) - last commit 17 days ago
+
+I open issue here to ask how about make awesome list related to static site (hosting, comment system, embedding service, payment, etc) ?
+",https://github.com/sindresorhus/awesome/issues/291
+289,Implementation of awesome-sample-apps,closed,[],2015-08-24T19:00:00Z,alferov,"I apologize in advance if someone had this idea before, but what if it would be created a list that would contain links to open-sourced applications.
+
+For example:
+- Ruby
+  - Rails
+    - [railstutorial/sample_app](https://github.com/railstutorial/sample_app) - Ruby on Rails Tutorial sample application.
+- JavaScript
+  - Angular
+    - [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS Web Client for ProtonMail.
+  - React
+    - [ipselon/react-ui-builder](https://github.com/ipselon/react-ui-builder) - React UI Builder.
+
+It would be beneficial for everyone, who starts playing around with a new framework and prefers to learn by reading code.
+I can start working on it (if it hasn't been implemented yet :smile:).
+Thanks!
+",https://github.com/sindresorhus/awesome/issues/289
+269,How can we get non-git users to contribute PRs to awesome lists?,closed,[],2015-08-13T16:18:28Z,simonv3,"Could a bot be set up that does PRs running from a server somewhere that people who don't have github-foo can submit additions to a list for?
+
+cc @RichardLitt 
+",https://github.com/sindresorhus/awesome/issues/269
+266,contributing.md shows info for creating lists,closed,['enhancement'],2015-08-11T19:45:43Z,inputsh,"I think that these info should be moved to `awesome.md` completely so we could have a `contributing.md` file that contains only info for submitting the content to this list (and of course, the link to `awesome.md`).
+",https://github.com/sindresorhus/awesome/issues/266
+258,Table of content for each section?,closed,[],2015-08-05T19:47:37Z,AllThingsSmitty,"A TOC at the top of the list would be useful for getting to specific sections, e.g., Front-End Development, Books, Editors, etc. Thoughts/concerns?
+",https://github.com/sindresorhus/awesome/issues/258
+254,Add Awesome Information Security ,closed,[],2015-08-02T21:15:14Z,fredericksilva,"- add [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)
+",https://github.com/sindresorhus/awesome/issues/254
+253,Add badge to existing lists,closed,['help wanted'],2015-07-30T16:16:34Z,sindresorhus,"Could use some help with getting the badge [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) into existing lists. Comment on which you've done.
+
+https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge
+",https://github.com/sindresorhus/awesome/issues/253
+232,Add awesome-linuxaudio,closed,[],2015-07-16T12:05:26Z,nodiscc,"https://github.com/nodiscc/awesome-linuxaudio/ is a list of software and resources for professional audio/video/live events production on Linux.
+",https://github.com/sindresorhus/awesome/issues/232
+230,awesome mobile,closed,[],2015-07-11T19:29:03Z,alec-c4,"I'd like to suggest my awesome list for mobile marketing and development - https://github.com/alec-c4/awesome-mobile %)
+",https://github.com/sindresorhus/awesome/issues/230
+229,Guidance on what the name of a list that contains these entries should be?,closed,[],2015-07-11T06:45:29Z,icyflame,"These are kind of the things that I want to add to this list :- 
+1. [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+2. [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor)
+3. [Murphy's Law](https://en.wikipedia.org/wiki/Murphy%27s_law)
+4. [Stockholm Syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome)
+5. [Flow - psychology](https://en.wikipedia.org/wiki/Flow_%28psychology%29)
+
+Some of the things that are common about these entries are :-
+1. Some of them are related to Programming, Open Source. (1, 2, 3)
+2. All of them are one of `Adages`, `Aphorisms`, `Psychological syndromes`,
+   `Psychological principles`.
+3. They are easy to understand, and behavior starts to make sense after
+   understanding their gists. (Especially with 1, 2, 4, 5)
+
+I thought about naming the list :-
+1. `awesome-behaviour` : Almost everything on the lit is related with behaviour,
+   except for entries like 3.
+2. `awesome-psychology` : Entries list 2 and 3 do not fit.
+
+So, I would like your opinion on :-
+1. **Does an awesome list feel justified?**
+   
+   I do believe that a list must exist that has a list of all these things. Although, I think that the content is very fragmented. As there are a lot of things that could be part of this list, and the list could probably end up being called `awesome-miscellaneous`.
+2. **Do you think that Wikipedia is the right source to link to, for entries like above?**
+   
+   I am slightly uncomfortable about using WikiPedia as the only source, because content keeps changing, and there's no concrete verification of the information being entered. Would you rather that the list have a link to the Wikipedia page, alongwith the link to a paper/article in a respected journal / blog post by a respected person in the field, along with the entry? This would make the list harder to build, and accept contributions to, but I guess it would be worth it, as everything there would actually be _curated_.
+   
+   Of course, this list would be something that you can consume in your free time and get to know
+   more, so, in that perspective, Wikipedia seems good enough.
+
+P.S. I have read the [Awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md), and the contributing guidelines for some awesome lists. Yet, I remain indecisive.
+",https://github.com/sindresorhus/awesome/issues/229
+228,awesome-productivity,closed,[],2015-07-08T02:30:58Z,jyguyomarch,"Hi,
+
+I started a list on productivity (methods, tools, books...). But before going further, is that something that already exists and that I might have missed? If not, do you think it is a good idea and would fit the awesome framework?
+",https://github.com/sindresorhus/awesome/issues/228
+227,Is there section for CMS's?,closed,[],2015-07-07T21:20:55Z,gothburz,"I couldn't find any, but I can provide links, SVG's, and .ai files if you need them.
+",https://github.com/sindresorhus/awesome/issues/227
+222,Awesome list of Responsive Web Design resources,closed,[],2015-07-01T20:30:44Z,jyguyomarch,"Repo https://github.com/bradfrost/this-is-responsive has an impressive list of resources and patterns for Responsive Web Design.
+
+But it is in the form of a web site (that can be contributed to): http://bradfrost.github.io/this-is-responsive/resources.html
+
+Should it be added as an awesome list?
+",https://github.com/sindresorhus/awesome/issues/222
+219,Regular Expression ,closed,[],2015-06-30T15:15:45Z,hueitan,"Can I add [awesome-regexp](https://github.com/huei90/awesome-regexp) in this list?
+",https://github.com/sindresorhus/awesome/issues/219
+216,Shouldn't the master list be ordered alphabetically?,closed,[],2015-06-29T15:59:47Z,jyguyomarch,"I find it easier to scan a list if it is ordered alphabetically.
+
+I understand that you ask new list links to be added to the end of the corresponding category. I guess it is to keep track of what's new.
+
+Maybe instead you could ask new links to be inserted alphabetically and a :new: emoji to be added in front. If the category already has a link with :new: then remove the old :new: emoji.
+",https://github.com/sindresorhus/awesome/issues/216
+213,Badge,closed,[],2015-06-27T13:23:39Z,sindresorhus,"Maybe we can have a badge for people to use in their awesome list if they follow the `awesome.md` guidelines?
+
+I can make something based on the new logo, but we need to find a canonical place to host it where the URL will never change, long cache, but still possible to update it. Any ideas?
+",https://github.com/sindresorhus/awesome/issues/213
+207,Improve the awesome list ecoystem,closed,['help wanted'],2015-06-24T09:30:22Z,sindresorhus,"A lot of lists are missing important things or just too low of quality. We could be nice internet citizens and help out those lists.
+
+Common things I open issues about in lists:
+- Missing license. Here we can suggest the same as this repo or CC0 or some other CC license.
+- Missing contributing.md. Can just suggest copying the one in this repo and modify it to own needs.
+- Succinct description to each item.
+- Commentary on each item. Added by the submitter of why the item is worth reading/consuming. See https://github.com/sindresorhus/awesome-scifi#cities-in-flight-1970-by-james-blish-40 for example.
+- Grammar. I find an amazing amount of typos in the lists people make.
+- It's readme should have a clear description of what the list contains.
+- Quality check added content. Not everything is worth adding. It should be a curation of the best, not a list of everything.
+
+Having all lists follow this would improve the quality considerably.
+
+Maybe we could come up with some guidelines on what's a `awesome` ""certified"" list?
+
+Anything I missed?
+
+**Anyone care to help out opening issues on lists? Both lists included here and not.**
+",https://github.com/sindresorhus/awesome/issues/207
+206,nzakas/computer-science-in-javascript,closed,[],2015-06-24T02:12:31Z,stevemao,"Not sure if https://github.com/nzakas/computer-science-in-javascript should go here. But it looks awesome. Feel free to close this. :smile: 
+",https://github.com/sindresorhus/awesome/issues/206
+200,Awesome Vanilla Javascript,closed,[],2015-06-23T08:14:16Z,davidhund,"I just started compiling a little list of–specifically–‘Vanilla’ Javascript resources: https://github.com/davidhund/awesome-vanilla
+
+Before making a PR I'd like to ask if this could be a handy addition to your list-of-lists?
+I guess it would fall under the “Front-end Development” section.
+",https://github.com/sindresorhus/awesome/issues/200
+188,Linux resources?,closed,[],2015-06-12T13:23:40Z,inputsh,"I found two repositories with Linux resources: [awesome-linux](https://github.com/dhamaniasad/awesome-linux) and [awesome-linux-resources](https://github.com/itech001/awesome-linux-resources). They have pretty different content, but I think that we should include at least one of them.
+
+The second one already links back to this repository.
+",https://github.com/sindresorhus/awesome/issues/188
+187,Shouldn't Git and GitHub cheatsheets go to Development category?,closed,[],2015-06-12T13:19:36Z,inputsh,"We already have them in the miscellaneous category. I think that they should be moved to the development category.
+",https://github.com/sindresorhus/awesome/issues/187
+184,Remove git-cheat-sheet and github-cheat-sheet?,closed,[],2015-06-07T17:39:31Z,waldyrious,"[Both](https://github.com/ArslanBilal/Git-Cheat-Sheet) [are](https://github.com/tiimgreen/github-cheat-sheet) definitely useful resources, but they don't seem to fit the pattern of the other entries (which are lists of _links_ to awesome resources related to a topic). Instead, there could be an ""awesome-cheatsheets"" repo which would then link to those ([and](https://github.com/search?p=3&q=%22cheat+sheets%22+stars%3A%3E100&type=Repositories) [other](https://github.com/search?p=3&q=cheatsheets+stars%3A%3E100&type=Repositories)) cheatsheets.
+
+Thoughts?
+",https://github.com/sindresorhus/awesome/issues/184
+177,Organizing the michellaneous category alphabetically,closed,[],2015-06-03T01:42:24Z,inputsh,"I think that it would be more appropriate to organize the lists in every category alphabetically. I think that it would be much easier to browse them if we do so.
+",https://github.com/sindresorhus/awesome/issues/177
+167,awesome-c no longer maintained on GitHub,closed,[],2015-05-31T01:05:43Z,inputsh,"awesome-c list is no longer on GitHub.
+
+Maybe we should link the new location of this list?
+Or someone should continue supporting the development of this list on GitHub?
+
+Anyway, I don't think that this repository should link to that awesome-c repository anymore.
+",https://github.com/sindresorhus/awesome/issues/167
+157,Consider merging with bayandin/awesome-awesomeness,closed,[],2015-05-25T17:01:42Z,waldyrious,"It would be nice to merge efforts.
+Clickable link: https://github.com/bayandin/awesome-awesomeness
+/cc @bayandin
+",https://github.com/sindresorhus/awesome/issues/157
+153,Local awesome lists,closed,['list request'],2015-05-22T19:46:05Z,Stichoza,"I noticed some localized awesome lists that contain packages/libs specific to certain countries. Local bank APIs, cellular operator services, localizations, language packs, etc.
+
+Example: https://github.com/Stichoza/awesome-georgia
+
+What about adding separate category like **Local Lists**? I think it will encourage local open-source communities.
+",https://github.com/sindresorhus/awesome/issues/153
+151,Suggestion,closed,[],2015-05-22T10:05:00Z,akshitjain,"Aren't the lists should be sorted in alphabetical order under each category?
+",https://github.com/sindresorhus/awesome/issues/151
+147,Add Regex,closed,[],2015-05-21T14:12:03Z,aloisdg,"Hello,
+
+I made an [awesome-regex](https://github.com/aloisdg/awesome-regex).
+Where should I add it? What is the best category?
+
+Thank you and feel free to contribute too :)
+",https://github.com/sindresorhus/awesome/issues/147
+143,More categories,closed,[],2015-05-20T18:42:58Z,sindresorhus,"The `Miscellaneous` category is getting pretty large. Would be nice to split some of it out into more categories.
+
+Suggestions?
+",https://github.com/sindresorhus/awesome/issues/143
+138,"Add ""Mad Science Modules""",closed,[],2015-05-19T21:43:04Z,feross,"https://github.com/feross/mad-science-modules
+",https://github.com/sindresorhus/awesome/issues/138
+130,you dont know js,closed,[],2015-05-17T17:58:59Z,h-nazzal,"why not add [""you dont know js""](https://github.com/getify/You-Dont-Know-JS) book series. seriously one of the best recent books for JavaScript.
+",https://github.com/sindresorhus/awesome/issues/130
+129,O'Reilly Media Inc,closed,[],2015-05-16T12:59:49Z,vsaw,"I noticed that Books and Repositories of O'Reilly are missing. Since their [public GitHub repositories](https://github.com/oreillymedia) not only contain lots of great tools but also some collaborative books like
+- https://github.com/oreillymedia/97-things-every-agile-developer-should-know
+- https://github.com/oreillymedia/keep-up-to-date
+- https://github.com/oreillymedia/opencv-processing-book
+- https://github.com/oreillymedia/open_government
+- http://weareallaweso.me/ 
+",https://github.com/sindresorhus/awesome/issues/129
+128,List of useful Git Hook and .gitignore files,closed,[],2015-05-16T12:44:40Z,vsaw,"I thinks these ones would make a great addition to the list
+- https://github.com/pre-commit/pre-commit
+- https://github.com/github/gitignore
+
+Given the fact that by then a number of Git related items are in the list maybe it makes sense to move Git (and possibly GitHub) to a separate section?
+",https://github.com/sindresorhus/awesome/issues/128
+118,"Please add the list of ""Open Source Clones of Popular Games""",closed,[],2015-05-06T02:50:29Z,mdtrooper,"I have been working in script to do:
+
+yaml + mustache_template -> markdown
+
+And it is finish.
+
+https://github.com/mdtrooper/osgameclones
+",https://github.com/sindresorhus/awesome/issues/118
+114,"Underscore character in front of the ""Basics"" section under Haskell",closed,[],2015-05-03T08:58:43Z,jaredpetersen,"There is an underscore in front of the Haskell ""Basics"" section header and Table of Contents link. I'm not sure if it's intended or not, but it appears to be a nonstandard way of titling in the repo.
+EDIT: This is not a problem with the awesome repository, as the issue is actually located in krispo/awesome-haskell. Apologies.
+",https://github.com/sindresorhus/awesome/issues/114
+112,Arrange the lists in alphabetical Order.,closed,[],2015-04-29T21:06:30Z,AchoArnold,"Hey I think it will be a great idea to arrange this list in an alphabetical order. E.g 
+#### Back-end development
+- Django
+- Play1 Framework
+- CakePHP
+- Symfony2
+- Laravel
+
+_Becomes_
+#### Back-end development
+- CakePHP
+- Django
+- Laravel
+- Play1 Framework
+- Symfony2
+",https://github.com/sindresorhus/awesome/issues/112
+107,AwesomeOpenSource,closed,[],2015-04-07T13:08:23Z,jeffreyjackson,"We are creating a github org for all awesome open source repos.  I am working with a few individuals who are also managing their own awesome repos, and I think to gain more traction we need to work together.  What are your thoughts about collectively moving your awesome repos to https://github.com/AwesomeOpenSource
+
+The idea is that visibility for these repos would be increased due to more traffic to the org.  What are your thoughts?  Let me know if there is anything you'd like to discuss!
+",https://github.com/sindresorhus/awesome/issues/107
+73,Suggestion.,closed,[],2015-01-16T22:20:18Z,melvin0008,"I created a repo called [awesome-julia](https://github.com/melvin0008/awesome-julia).  
+The current repo under Julia is Julia.jl on your list.  
+Is it possible for two links to co-exist under one programming language.    
+",https://github.com/sindresorhus/awesome/issues/73
+51,Suggestion,closed,[],2014-12-01T20:17:27Z,scalp42,"Hi there,
+
+Great list. Would adding https://github.com/JuanitoFatas/fast-ruby make sense ?
+
+Thanks in advance!
+",https://github.com/sindresorhus/awesome/issues/51
+33,Awesome Radio,closed,[],2014-09-12T08:23:55Z,niclashoyer,"I recently stared [awesome-radio](https://github.com/kyleterry/awesome-radio) maybe it could be added to the list.
+",https://github.com/sindresorhus/awesome/issues/33
+20,Have you considered breaking + regrouping Miscellaneous section?,closed,[],2014-07-28T15:40:44Z,unnawut,"It looks like your Miscellaneous section has grown to 30 entries already. I feel it's a little difficult to browse now. I would like to suggest regrouping them, for example:
+- Web development:
+  - JavaScript Must Watch Talks
+  - ES6 tools
+  - Web Tools
+  - HTML5
+- Databases & Big Data:
+  - Big Data
+  - Hadoop
+  - Data Science
+- Theories & Practices:
+  - Papers We Love
+  - Algorithms
+  - Talks
+
+If you agree I could prepare a more proper pull request for you to consider.
+",https://github.com/sindresorhus/awesome/issues/20
+5,Node.js a programming language?,closed,[],2014-07-13T17:13:17Z,sddhrthrt,"Maybe we could name the list something else - makes viewers [doubt the awesomeness](https://news.ycombinator.com/item?id=8027754) of the list.
+",https://github.com/sindresorhus/awesome/issues/5
